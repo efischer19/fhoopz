@@ -28,12 +28,16 @@ for tid, row in fteam_f.iterrows():
     print('#{:2} {:<22}{:8.2f} | {}'.format(count, row['TEAM_NAME'], row['FPT'], roster_str[:-2]))
     count += 1
 
-#then, game logs from yesterday
 print()
-print("Fantasy relevant lines from yesterday:")
+print("Fantasy Scoring Settings:")
 fvals = {}
 with open(path.join(f_data_path, "settings", "scoring.json"), "r") as rfile:
     fvals = json.load(rfile)
+print(" | ".join(["1 {} = {} FPTS".format(k, v) for k, v in fvals.items()]))
+
+#then, game logs from yesterday
+print()
+print("Fantasy relevant lines from yesterday:")
 date_str = (date.today() - timedelta(1)).strftime("%Y-%m-%d")
 yesterday_df = pd.read_csv(path.join(irl_data_path, 'game_logs', date_str + ".csv"), index_col='PLAYER_ID')
 for tid, roster in froster.items():
