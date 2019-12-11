@@ -1,0 +1,5 @@
+             TEAM_NAME      FPT  FPT_PER_G  FPT_PER_48   PTS   REB   AST  STL  BLK  TOV    G
+     Worcester Waldens  7786.25     43.990      62.740  3844  1673  1002  248  134  607  177
+ Nantucket Cranberries  7641.75     41.085      58.048  4211  1457   923  170  136  540  186
+     Medford Minutemen  7589.00     41.245      57.941  4262  1404   825  170  177  533  184
+     Cape Cod Clammers  7580.50     41.423      58.209  4155  1168   994  255  148  533  183

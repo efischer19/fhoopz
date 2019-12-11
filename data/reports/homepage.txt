@@ -1,0 +1,67 @@
+Current fantasy standings and rosters:
+# 1 Worcester Waldens      7786.25 | Giannis Antetokounmpo, Damian Lillard, Trae Young, CJ McCollum, Lou Williams, Tobias Harris, Domantas Sabonis, Clint Capela
+# 2 Nantucket Cranberries  7641.75 | James Harden, Karl-Anthony Towns, Pascal Siakam, Montrezl Harrell, LaMarcus Aldridge, Devin Booker, Devonte' Graham, Rudy Gobert
+# 3 Medford Minutemen      7589.00 | Luka Doncic, Andre Drummond, Bradley Beal, Russell Westbrook, Bam Adebayo, Nikola Jokic, Kawhi Leonard, Jayson Tatum
+# 4 Cape Cod Clammers      7580.50 | LeBron James, Anthony Davis, Donovan Mitchell, DeMar DeRozan, Zach LaVine, Jrue Holiday, Fred VanVleet, Joel Embiid
+
+Fantasy relevant lines from yesterday:
+Damian Lillard        (POR vs. NYK): 31 PTS,  2 REB,  6 AST,  0 STL,  0 BLK,  3 TOV,  39.50 FPTS
+Trae Young            ( ATL @ MIA ): 21 PTS,  4 REB,  9 AST,  0 STL,  0 BLK,  4 TOV,  35.50 FPTS
+CJ McCollum           (POR vs. NYK): 13 PTS,  4 REB,  3 AST,  0 STL,  1 BLK,  2 TOV,  23.00 FPTS
+Tobias Harris         (PHI vs. DEN): 20 PTS,  7 REB,  4 AST,  1 STL,  2 BLK,  1 TOV,  41.25 FPTS
+Devonte' Graham       (CHA vs. WAS): 29 PTS,  1 REB,  6 AST,  2 STL,  1 BLK,  1 TOV,  45.75 FPTS
+Bradley Beal          ( WAS @ CHA ): 16 PTS,  4 REB,  9 AST,  0 STL,  1 BLK,  4 TOV,  33.00 FPTS
+Bam Adebayo           (MIA vs. ATL): 30 PTS, 11 REB, 11 AST,  2 STL,  0 BLK,  4 TOV,  61.25 FPTS
+Nikola Jokic          ( DEN @ PHI ): 15 PTS,  7 REB, 11 AST,  0 STL,  1 BLK,  2 TOV,  40.75 FPTS
+Joel Embiid           (PHI vs. DEN): 22 PTS, 10 REB,  6 AST,  2 STL,  1 BLK,  4 TOV,  47.00 FPTS
+
+Today's games:
+Houston       @ Cleveland      7:00 pm ET
+Boston        @ Indiana        7:00 pm ET
+L.A. Lakers   @ Orlando        7:00 pm ET
+LA Clippers   @ Toronto        7:00 pm ET (ESPN)
+Charlotte     @ Brooklyn       7:30 pm ET
+Atlanta       @ Chicago        8:00 pm ET
+Utah          @ Minnesota      8:00 pm ET
+Memphis       @ Phoenix        9:00 pm ET
+New Orleans   @ Milwaukee      9:30 pm ET (ESPN)
+Oklahoma City @ Sacramento    10:00 pm ET
+New York      @ Golden State  10:30 pm ET
+
+Eastern Conference Standings:
+          TEAM   W   L
+     Milwaukee  21   3
+        Boston  17   5
+         Miami  18   6
+  Philadelphia  18   7
+       Toronto  16   7
+       Indiana  15   9
+      Brooklyn  13  10
+       Orlando  11  12
+*************************
+       Detroit  10  14
+     Charlotte  10  16
+       Chicago   8  17
+    Washington   7  16
+       Atlanta   6  18
+     Cleveland   5  18
+      New York   4  20
+
+Western Conference Standings:
+          TEAM   W   L
+   L.A. Lakers  21   3
+   LA Clippers  18   7
+        Dallas  16   7
+       Houston  15   8
+        Denver  14   8
+          Utah  13  11
+ Oklahoma City  11  12
+       Phoenix  11  12
+*************************
+     Minnesota  10  13
+    Sacramento  10  13
+      Portland  10  15
+   San Antonio   9  14
+       Memphis   7  16
+   New Orleans   6  18
+  Golden State   5  20

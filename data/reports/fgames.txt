@@ -1,0 +1,834 @@
+
+**2019-10-21**
+
+**2019-10-22**
+Lou Williams          (LAC vs. LAL): 21 PTS,  5 REB,  7 AST,  1 STL,  0 BLK,  2 TOV,  38.25 FPTS
+Pascal Siakam         (TOR vs. NOP): 34 PTS, 18 REB,  5 AST,  0 STL,  1 BLK,  4 TOV,  62.50 FPTS
+Montrezl Harrell      (LAC vs. LAL): 17 PTS,  7 REB,  4 AST,  1 STL,  1 BLK,  3 TOV,  33.75 FPTS
+Kawhi Leonard         (LAC vs. LAL): 30 PTS,  6 REB,  5 AST,  2 STL,  1 BLK,  6 TOV,  46.50 FPTS
+LeBron James          ( LAL @ LAC ): 18 PTS, 10 REB,  8 AST,  1 STL,  1 BLK,  5 TOV,  42.50 FPTS
+Anthony Davis         ( LAL @ LAC ): 25 PTS,  9 REB,  5 AST,  1 STL,  2 BLK,  3 TOV,  48.25 FPTS
+Jrue Holiday          ( NOP @ TOR ): 13 PTS,  4 REB,  6 AST,  0 STL,  2 BLK,  5 TOV,  27.00 FPTS
+Fred VanVleet         (TOR vs. NOP): 34 PTS,  5 REB,  7 AST,  2 STL,  0 BLK,  2 TOV,  53.75 FPTS
+
+**2019-10-23**
+Damian Lillard        (POR vs. DEN): 32 PTS,  4 REB,  8 AST,  1 STL,  0 BLK,  3 TOV,  48.50 FPTS
+CJ McCollum           (POR vs. DEN): 12 PTS,  3 REB,  3 AST,  1 STL,  0 BLK,  5 TOV,  17.75 FPTS
+Tobias Harris         (PHI vs. BOS): 15 PTS, 15 REB,  4 AST,  2 STL,  0 BLK,  4 TOV,  40.75 FPTS
+Domantas Sabonis      (IND vs. DET): 27 PTS, 13 REB,  2 AST,  0 STL,  0 BLK,  2 TOV,  44.25 FPTS
+Karl-Anthony Towns    ( MIN @ BKN ): 36 PTS, 14 REB,  3 AST,  3 STL,  3 BLK,  3 TOV,  70.00 FPTS
+LaMarcus Aldridge     (SAS vs. NYK): 22 PTS,  8 REB,  1 AST,  0 STL,  2 BLK,  4 TOV,  34.50 FPTS
+Devin Booker          (PHX vs. SAC): 22 PTS,  2 REB, 10 AST,  1 STL,  0 BLK,  3 TOV,  39.00 FPTS
+Devonte' Graham       (CHA vs. CHI): 23 PTS,  4 REB,  8 AST,  0 STL,  0 BLK,  1 TOV,  39.00 FPTS
+Rudy Gobert           (UTA vs. OKC):  7 PTS, 14 REB,  0 AST,  0 STL,  1 BLK,  4 TOV,  23.00 FPTS
+Luka Doncic           (DAL vs. WAS): 34 PTS,  9 REB,  3 AST,  2 STL,  0 BLK,  6 TOV,  48.75 FPTS
+Andre Drummond        ( DET @ IND ): 32 PTS, 23 REB,  2 AST,  3 STL,  4 BLK,  2 TOV,  79.25 FPTS
+Bradley Beal          ( WAS @ DAL ): 19 PTS,  6 REB,  9 AST,  3 STL,  0 BLK,  2 TOV,  45.50 FPTS
+Bam Adebayo           (MIA vs. MEM): 14 PTS, 11 REB,  3 AST,  1 STL,  0 BLK,  5 TOV,  29.75 FPTS
+Nikola Jokic          ( DEN @ POR ): 20 PTS, 13 REB,  2 AST,  0 STL,  0 BLK,  4 TOV,  35.25 FPTS
+Jayson Tatum          ( BOS @ PHI ): 21 PTS, 10 REB,  2 AST,  2 STL,  0 BLK,  4 TOV,  37.50 FPTS
+Donovan Mitchell      (UTA vs. OKC): 32 PTS, 12 REB,  3 AST,  1 STL,  0 BLK,  1 TOV,  53.00 FPTS
+DeMar DeRozan         (SAS vs. NYK): 13 PTS,  4 REB,  4 AST,  0 STL,  1 BLK,  4 TOV,  22.50 FPTS
+Zach LaVine           ( CHI @ CHA ): 16 PTS,  6 REB,  7 AST,  2 STL,  1 BLK,  5 TOV,  36.50 FPTS
+Joel Embiid           (PHI vs. BOS): 15 PTS, 13 REB,  3 AST,  0 STL,  3 BLK,  0 TOV,  43.25 FPTS
+
+**2019-10-24**
+Giannis Antetokounmpo ( MIL @ HOU ): 30 PTS, 13 REB, 11 AST,  1 STL,  1 BLK,  3 TOV,  64.75 FPTS
+Trae Young            ( ATL @ DET ): 38 PTS,  7 REB,  9 AST,  1 STL,  0 BLK,  6 TOV,  56.75 FPTS
+Lou Williams          ( LAC @ GSW ): 22 PTS,  3 REB,  8 AST,  1 STL,  0 BLK,  0 TOV,  40.25 FPTS
+Clint Capela          (HOU vs. MIL): 13 PTS, 12 REB,  0 AST,  1 STL,  3 BLK,  0 TOV,  38.00 FPTS
+James Harden          (HOU vs. MIL): 19 PTS,  7 REB, 14 AST,  1 STL,  1 BLK,  7 TOV,  46.75 FPTS
+Montrezl Harrell      ( LAC @ GSW ): 18 PTS,  6 REB,  3 AST,  0 STL,  0 BLK,  6 TOV,  24.00 FPTS
+Andre Drummond        (DET vs. ATL): 21 PTS, 12 REB,  2 AST,  4 STL,  1 BLK,  4 TOV,  47.50 FPTS
+Russell Westbrook     (HOU vs. MIL): 24 PTS, 16 REB,  7 AST,  2 STL,  1 BLK,  3 TOV,  59.00 FPTS
+Kawhi Leonard         ( LAC @ GSW ): 21 PTS,  5 REB,  9 AST,  0 STL,  0 BLK,  1 TOV,  39.75 FPTS
+
+**2019-10-25**
+Damian Lillard        ( POR @ SAC ): 35 PTS,  5 REB,  5 AST,  3 STL,  0 BLK,  3 TOV,  53.25 FPTS
+CJ McCollum           ( POR @ SAC ): 19 PTS,  2 REB,  3 AST,  1 STL,  0 BLK,  2 TOV,  26.50 FPTS
+Karl-Anthony Towns    ( MIN @ CHA ): 37 PTS, 15 REB,  8 AST,  4 STL,  2 BLK,  2 TOV,  80.75 FPTS
+Pascal Siakam         ( TOR @ BOS ): 33 PTS,  8 REB,  2 AST,  0 STL,  0 BLK,  5 TOV,  41.00 FPTS
+Devin Booker          ( PHX @ DEN ): 18 PTS,  5 REB,  7 AST,  0 STL,  1 BLK,  3 TOV,  34.25 FPTS
+Devonte' Graham       (CHA vs. MIN): 24 PTS,  2 REB,  4 AST,  0 STL,  0 BLK,  3 TOV,  29.50 FPTS
+Rudy Gobert           ( UTA @ LAL ):  8 PTS,  9 REB,  3 AST,  2 STL,  0 BLK,  3 TOV,  25.75 FPTS
+Luka Doncic           ( DAL @ NOP ): 25 PTS, 10 REB, 10 AST,  2 STL,  0 BLK,  3 TOV,  54.50 FPTS
+Bradley Beal          ( WAS @ OKC ): 17 PTS,  6 REB,  3 AST,  1 STL,  1 BLK,  3 TOV,  31.00 FPTS
+Nikola Jokic          (DEN vs. PHX): 23 PTS, 14 REB, 12 AST,  1 STL,  2 BLK,  5 TOV,  61.00 FPTS
+Jayson Tatum          (BOS vs. TOR): 25 PTS,  9 REB,  4 AST,  3 STL,  0 BLK,  0 TOV,  49.75 FPTS
+LeBron James          (LAL vs. UTA): 32 PTS,  7 REB, 10 AST,  1 STL,  0 BLK,  1 TOV,  57.25 FPTS
+Anthony Davis         (LAL vs. UTA): 21 PTS,  7 REB,  2 AST,  2 STL,  5 BLK,  3 TOV,  47.25 FPTS
+Donovan Mitchell      ( UTA @ LAL ): 24 PTS,  5 REB,  3 AST,  3 STL,  1 BLK,  1 TOV,  43.75 FPTS
+Zach LaVine           ( CHI @ MEM ): 37 PTS,  6 REB,  4 AST,  3 STL,  1 BLK,  2 TOV,  58.50 FPTS
+Jrue Holiday          (NOP vs. DAL):  8 PTS,  4 REB,  8 AST,  2 STL,  0 BLK,  0 TOV,  30.00 FPTS
+Fred VanVleet         ( TOR @ BOS ):  8 PTS,  5 REB,  6 AST,  1 STL,  1 BLK,  4 TOV,  24.25 FPTS
+
+**2019-10-26**
+Giannis Antetokounmpo (MIL vs. MIA): 29 PTS, 17 REB,  9 AST,  3 STL,  2 BLK,  8 TOV,  68.25 FPTS
+Trae Young            (ATL vs. ORL): 39 PTS,  7 REB,  9 AST,  2 STL,  0 BLK,  5 TOV,  61.25 FPTS
+Lou Williams          ( LAC @ PHX ): 23 PTS,  2 REB,  2 AST,  0 STL,  0 BLK,  5 TOV,  23.50 FPTS
+Tobias Harris         ( PHI @ DET ): 29 PTS,  7 REB,  1 AST,  2 STL,  0 BLK,  3 TOV,  41.25 FPTS
+Domantas Sabonis      ( IND @ CLE ): 14 PTS,  5 REB,  2 AST,  2 STL,  0 BLK,  5 TOV,  23.25 FPTS
+Clint Capela          (HOU vs. NOP): 15 PTS,  6 REB,  2 AST,  1 STL,  2 BLK,  2 TOV,  31.00 FPTS
+James Harden          (HOU vs. NOP): 29 PTS,  4 REB,  5 AST,  1 STL,  0 BLK,  8 TOV,  36.00 FPTS
+Pascal Siakam         ( TOR @ CHI ): 19 PTS,  6 REB,  4 AST,  1 STL,  0 BLK,  4 TOV,  31.00 FPTS
+Montrezl Harrell      ( LAC @ PHX ): 28 PTS,  7 REB,  2 AST,  1 STL,  1 BLK,  1 TOV,  43.75 FPTS
+LaMarcus Aldridge     (SAS vs. WAS): 27 PTS,  9 REB,  3 AST,  1 STL,  1 BLK,  3 TOV,  44.75 FPTS
+Devin Booker          (PHX vs. LAC): 30 PTS,  6 REB,  8 AST,  0 STL,  0 BLK,  4 TOV,  45.50 FPTS
+Rudy Gobert           (UTA vs. SAC):  6 PTS,  6 REB,  2 AST,  0 STL,  1 BLK,  4 TOV,  15.00 FPTS
+Andre Drummond        (DET vs. PHI): 13 PTS, 12 REB,  1 AST,  0 STL,  2 BLK,  2 TOV,  32.50 FPTS
+Bradley Beal          ( WAS @ SAS ): 25 PTS,  5 REB, 11 AST,  0 STL,  1 BLK,  3 TOV,  47.25 FPTS
+Russell Westbrook     (HOU vs. NOP): 28 PTS, 10 REB, 13 AST,  1 STL,  0 BLK,  4 TOV,  58.50 FPTS
+Bam Adebayo           ( MIA @ MIL ): 19 PTS, 13 REB,  8 AST,  0 STL,  1 BLK,  3 TOV,  46.75 FPTS
+Kawhi Leonard         ( LAC @ PHX ): 27 PTS,  8 REB, 10 AST,  3 STL,  1 BLK,  3 TOV,  59.00 FPTS
+Jayson Tatum          ( BOS @ NYK ): 15 PTS,  9 REB,  0 AST,  3 STL,  2 BLK,  2 TOV,  36.75 FPTS
+Donovan Mitchell      (UTA vs. SAC): 15 PTS,  1 REB,  4 AST,  1 STL,  0 BLK,  1 TOV,  23.75 FPTS
+DeMar DeRozan         (SAS vs. WAS): 26 PTS,  4 REB,  3 AST,  2 STL,  1 BLK,  1 TOV,  42.00 FPTS
+Zach LaVine           (CHI vs. TOR): 11 PTS,  1 REB,  4 AST,  0 STL,  0 BLK,  2 TOV,  16.25 FPTS
+Fred VanVleet         ( TOR @ CHI ): 16 PTS,  4 REB,  6 AST,  1 STL,  0 BLK,  3 TOV,  29.50 FPTS
+
+**2019-10-27**
+Damian Lillard        ( POR @ DAL ): 28 PTS,  3 REB,  5 AST,  1 STL,  1 BLK,  2 TOV,  42.25 FPTS
+CJ McCollum           ( POR @ DAL ): 35 PTS,  6 REB,  4 AST,  2 STL,  0 BLK,  2 TOV,  51.50 FPTS
+Karl-Anthony Towns    (MIN vs. MIA): 23 PTS, 11 REB,  4 AST,  1 STL,  1 BLK,  2 TOV,  45.75 FPTS
+Devonte' Graham       ( CHA @ LAL ):  9 PTS,  3 REB,  5 AST,  0 STL,  0 BLK,  1 TOV,  19.25 FPTS
+Luka Doncic           (DAL vs. POR): 29 PTS, 12 REB,  9 AST,  3 STL,  0 BLK,  4 TOV,  61.00 FPTS
+Bam Adebayo           ( MIA @ MIN ): 13 PTS,  9 REB,  5 AST,  2 STL,  3 BLK,  3 TOV,  41.25 FPTS
+LeBron James          (LAL vs. CHA): 20 PTS,  6 REB, 12 AST,  1 STL,  0 BLK,  4 TOV,  44.00 FPTS
+Anthony Davis         (LAL vs. CHA): 29 PTS, 14 REB,  3 AST,  1 STL,  3 BLK,  5 TOV,  56.00 FPTS
+
+**2019-10-28**
+Giannis Antetokounmpo (MIL vs. CLE): 14 PTS, 10 REB,  7 AST,  0 STL,  2 BLK,  2 TOV,  40.00 FPTS
+Damian Lillard        ( POR @ SAS ): 28 PTS,  9 REB,  7 AST,  0 STL,  2 BLK,  1 TOV,  53.75 FPTS
+Trae Young            (ATL vs. PHI): 25 PTS,  4 REB,  9 AST,  0 STL,  0 BLK,  7 TOV,  36.50 FPTS
+CJ McCollum           ( POR @ SAS ): 27 PTS,  3 REB,  5 AST,  0 STL,  0 BLK,  1 TOV,  37.25 FPTS
+Lou Williams          (LAC vs. CHA): 23 PTS,  4 REB,  4 AST,  1 STL,  0 BLK,  3 TOV,  33.50 FPTS
+Tobias Harris         ( PHI @ ATL ): 13 PTS,  5 REB,  5 AST,  1 STL,  0 BLK,  1 TOV,  28.25 FPTS
+Domantas Sabonis      ( IND @ DET ): 21 PTS, 14 REB,  1 AST,  0 STL,  0 BLK,  1 TOV,  39.00 FPTS
+Clint Capela          (HOU vs. OKC): 15 PTS,  7 REB,  1 AST,  1 STL,  3 BLK,  5 TOV,  30.25 FPTS
+James Harden          (HOU vs. OKC): 40 PTS,  3 REB,  7 AST,  1 STL,  1 BLK,  4 TOV,  55.25 FPTS
+Pascal Siakam         (TOR vs. ORL): 24 PTS,  9 REB,  3 AST,  0 STL,  0 BLK,  3 TOV,  36.75 FPTS
+Montrezl Harrell      (LAC vs. CHA): 19 PTS,  7 REB,  2 AST,  2 STL,  0 BLK,  2 TOV,  33.75 FPTS
+LaMarcus Aldridge     (SAS vs. POR): 15 PTS,  7 REB,  3 AST,  1 STL,  5 BLK,  1 TOV,  42.25 FPTS
+Devin Booker          (PHX vs. UTA): 21 PTS,  3 REB,  0 AST,  1 STL,  1 BLK,  3 TOV,  26.75 FPTS
+Devonte' Graham       ( CHA @ LAC ): 14 PTS,  1 REB, 12 AST,  0 STL,  1 BLK,  3 TOV,  32.75 FPTS
+Rudy Gobert           ( UTA @ PHX ): 15 PTS, 18 REB,  1 AST,  3 STL,  1 BLK,  5 TOV,  44.00 FPTS
+Andre Drummond        (DET vs. IND): 18 PTS, 18 REB,  1 AST,  0 STL,  2 BLK,  6 TOV,  41.00 FPTS
+Russell Westbrook     (HOU vs. OKC): 21 PTS, 12 REB,  9 AST,  1 STL,  0 BLK,  5 TOV,  47.00 FPTS
+Nikola Jokic          ( DEN @ SAC ):  9 PTS, 13 REB,  2 AST,  2 STL,  1 BLK,  2 TOV,  33.75 FPTS
+Kawhi Leonard         (LAC vs. CHA): 30 PTS,  7 REB,  6 AST,  2 STL,  3 BLK,  2 TOV,  58.25 FPTS
+Donovan Mitchell      ( UTA @ PHX ): 25 PTS,  2 REB,  3 AST,  2 STL,  0 BLK,  3 TOV,  34.00 FPTS
+DeMar DeRozan         (SAS vs. POR): 27 PTS,  7 REB,  0 AST,  2 STL,  0 BLK,  5 TOV,  35.75 FPTS
+Zach LaVine           ( CHI @ NYK ): 21 PTS,  5 REB,  3 AST,  1 STL,  1 BLK,  4 TOV,  32.75 FPTS
+Fred VanVleet         (TOR vs. ORL): 14 PTS,  5 REB,  6 AST,  2 STL,  0 BLK,  3 TOV,  31.25 FPTS
+Joel Embiid           ( PHI @ ATL ): 36 PTS, 13 REB,  5 AST,  3 STL,  1 BLK,  7 TOV,  62.75 FPTS
+
+**2019-10-29**
+Trae Young            ( ATL @ MIA ):  5 PTS,  2 REB,  2 AST,  1 STL,  0 BLK,  2 TOV,  11.00 FPTS
+Luka Doncic           ( DAL @ DEN ): 12 PTS,  4 REB,  5 AST,  2 STL,  0 BLK,  4 TOV,  25.50 FPTS
+Bam Adebayo           (MIA vs. ATL): 17 PTS, 10 REB,  3 AST,  2 STL,  3 BLK,  2 TOV,  44.50 FPTS
+Nikola Jokic          (DEN vs. DAL): 10 PTS, 10 REB, 10 AST,  3 STL,  0 BLK,  4 TOV,  41.00 FPTS
+LeBron James          (LAL vs. MEM): 23 PTS,  2 REB,  8 AST,  0 STL,  1 BLK,  6 TOV,  34.00 FPTS
+Anthony Davis         (LAL vs. MEM): 40 PTS, 20 REB,  2 AST,  0 STL,  2 BLK,  0 TOV,  73.00 FPTS
+
+**2019-10-30**
+Giannis Antetokounmpo ( MIL @ BOS ): 22 PTS, 14 REB,  5 AST,  1 STL,  2 BLK,  3 TOV,  51.50 FPTS
+Damian Lillard        ( POR @ OKC ): 23 PTS,  7 REB, 13 AST,  2 STL,  0 BLK,  1 TOV,  55.25 FPTS
+CJ McCollum           ( POR @ OKC ): 22 PTS,  4 REB,  3 AST,  1 STL,  1 BLK,  7 TOV,  29.50 FPTS
+Lou Williams          ( LAC @ UTA ): 24 PTS,  3 REB,  4 AST,  0 STL,  0 BLK,  5 TOV,  28.75 FPTS
+Tobias Harris         (PHI vs. MIN): 18 PTS,  9 REB,  2 AST,  1 STL,  0 BLK,  3 TOV,  31.75 FPTS
+Domantas Sabonis      ( IND @ BKN ): 29 PTS,  8 REB,  4 AST,  1 STL,  1 BLK,  3 TOV,  47.00 FPTS
+Clint Capela          ( HOU @ WAS ): 21 PTS, 12 REB,  3 AST,  1 STL,  2 BLK,  1 TOV,  47.00 FPTS
+James Harden          ( HOU @ WAS ): 59 PTS,  3 REB,  9 AST,  1 STL,  0 BLK,  4 TOV,  74.75 FPTS
+Karl-Anthony Towns    ( MIN @ PHI ): 13 PTS,  6 REB,  1 AST,  2 STL,  1 BLK,  3 TOV,  26.50 FPTS
+Pascal Siakam         (TOR vs. DET): 30 PTS,  5 REB,  5 AST,  2 STL,  0 BLK,  2 TOV,  46.75 FPTS
+Montrezl Harrell      ( LAC @ UTA ): 10 PTS,  2 REB,  0 AST,  0 STL,  1 BLK,  1 TOV,  14.00 FPTS
+Devin Booker          ( PHX @ GSW ): 31 PTS,  4 REB,  5 AST,  1 STL,  0 BLK,  3 TOV,  43.00 FPTS
+Devonte' Graham       ( CHA @ SAC ): 12 PTS,  5 REB,  9 AST,  0 STL,  0 BLK,  3 TOV,  28.75 FPTS
+Rudy Gobert           (UTA vs. LAC): 13 PTS,  7 REB,  0 AST,  1 STL,  2 BLK,  1 TOV,  28.25 FPTS
+Andre Drummond        ( DET @ TOR ): 21 PTS, 22 REB,  3 AST,  0 STL,  1 BLK,  5 TOV,  50.50 FPTS
+Bradley Beal          (WAS vs. HOU): 46 PTS,  6 REB,  8 AST,  3 STL,  0 BLK,  5 TOV,  68.00 FPTS
+Russell Westbrook     ( HOU @ WAS ): 17 PTS, 10 REB, 12 AST,  2 STL,  1 BLK,  4 TOV,  51.00 FPTS
+Jayson Tatum          (BOS vs. MIL): 25 PTS,  4 REB,  2 AST,  0 STL,  1 BLK,  1 TOV,  34.50 FPTS
+Donovan Mitchell      (UTA vs. LAC): 24 PTS,  5 REB,  2 AST,  2 STL,  0 BLK,  2 TOV,  36.25 FPTS
+Zach LaVine           ( CHI @ CLE ): 16 PTS,  0 REB,  2 AST,  1 STL,  0 BLK,  1 TOV,  20.50 FPTS
+Fred VanVleet         (TOR vs. DET): 13 PTS,  1 REB, 11 AST,  1 STL,  0 BLK,  1 TOV,  32.25 FPTS
+Joel Embiid           (PHI vs. MIN): 19 PTS,  5 REB,  2 AST,  1 STL,  1 BLK,  1 TOV,  32.25 FPTS
+
+**2019-10-31**
+Lou Williams          (LAC vs. SAS): 12 PTS,  2 REB,  5 AST,  0 STL,  0 BLK,  2 TOV,  20.00 FPTS
+Montrezl Harrell      (LAC vs. SAS): 24 PTS,  4 REB,  1 AST,  0 STL,  1 BLK,  3 TOV,  30.00 FPTS
+LaMarcus Aldridge     ( SAS @ LAC ):  5 PTS,  5 REB,  3 AST,  0 STL,  2 BLK,  3 TOV,  17.75 FPTS
+Bam Adebayo           ( MIA @ ATL ): 12 PTS,  6 REB,  7 AST,  1 STL,  2 BLK,  0 TOV,  37.50 FPTS
+Nikola Jokic          ( DEN @ NOP ): 13 PTS,  6 REB,  6 AST,  1 STL,  0 BLK,  2 TOV,  30.00 FPTS
+Kawhi Leonard         (LAC vs. SAS): 38 PTS, 12 REB,  1 AST,  4 STL,  0 BLK,  4 TOV,  60.50 FPTS
+DeMar DeRozan         ( SAS @ LAC ): 29 PTS,  7 REB,  2 AST,  1 STL,  0 BLK,  7 TOV,  36.25 FPTS
+Jrue Holiday          (NOP vs. DEN): 19 PTS,  5 REB,  7 AST,  2 STL,  0 BLK,  2 TOV,  38.75 FPTS
+
+**2019-11-01**
+Giannis Antetokounmpo ( MIL @ ORL ): 29 PTS, 14 REB,  6 AST,  2 STL,  0 BLK,  7 TOV,  53.50 FPTS
+Domantas Sabonis      (IND vs. CLE): 18 PTS, 17 REB,  4 AST,  0 STL,  2 BLK,  2 TOV,  48.25 FPTS
+Clint Capela          ( HOU @ BKN ): 10 PTS,  4 REB,  0 AST,  1 STL,  0 BLK,  1 TOV,  16.50 FPTS
+James Harden          ( HOU @ BKN ): 36 PTS,  5 REB,  8 AST,  0 STL,  0 BLK,  5 TOV,  49.25 FPTS
+LaMarcus Aldridge     ( SAS @ GSW ): 22 PTS,  8 REB,  0 AST,  0 STL,  1 BLK,  1 TOV,  33.50 FPTS
+Rudy Gobert           ( UTA @ SAC ): 15 PTS, 16 REB,  0 AST,  1 STL,  3 BLK,  3 TOV,  42.00 FPTS
+Luka Doncic           (DAL vs. LAL): 31 PTS, 13 REB, 15 AST,  0 STL,  1 BLK,  6 TOV,  66.25 FPTS
+Andre Drummond        ( DET @ CHI ): 25 PTS, 24 REB,  2 AST,  2 STL,  3 BLK,  5 TOV,  65.50 FPTS
+Russell Westbrook     ( HOU @ BKN ): 27 PTS,  7 REB,  8 AST,  4 STL,  1 BLK,  2 TOV,  58.25 FPTS
+Jayson Tatum          (BOS vs. NYK): 24 PTS,  6 REB,  3 AST,  0 STL,  0 BLK,  2 TOV,  34.00 FPTS
+LeBron James          ( LAL @ DAL ): 39 PTS, 12 REB, 16 AST,  4 STL,  1 BLK,  4 TOV,  86.50 FPTS
+Anthony Davis         ( LAL @ DAL ): 31 PTS,  8 REB,  2 AST,  2 STL,  2 BLK,  1 TOV,  53.00 FPTS
+Donovan Mitchell      ( UTA @ SAC ): 24 PTS,  4 REB,  2 AST,  3 STL,  0 BLK,  0 TOV,  39.50 FPTS
+DeMar DeRozan         ( SAS @ GSW ): 13 PTS,  1 REB, 11 AST,  0 STL,  0 BLK,  3 TOV,  27.75 FPTS
+Zach LaVine           (CHI vs. DET): 26 PTS,  5 REB,  3 AST,  0 STL,  0 BLK,  6 TOV,  30.75 FPTS
+
+**2019-11-02**
+Giannis Antetokounmpo (MIL vs. TOR): 36 PTS, 15 REB,  8 AST,  1 STL,  4 BLK,  3 TOV,  76.25 FPTS
+Damian Lillard        (POR vs. PHI): 33 PTS,  5 REB,  9 AST,  2 STL,  0 BLK,  7 TOV,  50.75 FPTS
+CJ McCollum           (POR vs. PHI): 16 PTS,  3 REB,  1 AST,  0 STL,  0 BLK,  2 TOV,  19.25 FPTS
+Tobias Harris         ( PHI @ POR ): 23 PTS,  7 REB,  3 AST,  1 STL,  2 BLK,  1 TOV,  42.75 FPTS
+Pascal Siakam         ( TOR @ MIL ): 16 PTS,  5 REB,  1 AST,  1 STL,  0 BLK,  1 TOV,  25.25 FPTS
+Devin Booker          ( PHX @ MEM ): 21 PTS,  1 REB,  2 AST,  0 STL,  0 BLK,  5 TOV,  20.25 FPTS
+Devonte' Graham       ( CHA @ GSW ):  4 PTS,  8 REB,  3 AST,  1 STL,  0 BLK,  5 TOV,  16.00 FPTS
+Andre Drummond        (DET vs. BKN): 25 PTS, 20 REB,  6 AST,  3 STL,  5 BLK,  4 TOV,  75.00 FPTS
+Bradley Beal          (WAS vs. MIN): 30 PTS,  0 REB,  1 AST,  1 STL,  0 BLK,  6 TOV,  28.00 FPTS
+Nikola Jokic          ( DEN @ ORL ): 20 PTS,  7 REB,  4 AST,  0 STL,  0 BLK,  1 TOV,  33.75 FPTS
+Jrue Holiday          ( NOP @ OKC ): 16 PTS,  3 REB,  6 AST,  1 STL,  0 BLK,  2 TOV,  29.25 FPTS
+Fred VanVleet         ( TOR @ MIL ): 12 PTS,  6 REB,  7 AST,  0 STL,  0 BLK,  1 TOV,  29.00 FPTS
+
+**2019-11-03**
+Lou Williams          (LAC vs. UTA): 17 PTS,  5 REB,  3 AST,  0 STL,  0 BLK,  1 TOV,  26.75 FPTS
+Clint Capela          ( HOU @ MIA ):  5 PTS,  7 REB,  0 AST,  2 STL,  0 BLK,  0 TOV,  18.75 FPTS
+James Harden          ( HOU @ MIA ): 29 PTS,  4 REB,  3 AST,  1 STL,  0 BLK,  6 TOV,  35.00 FPTS
+Montrezl Harrell      (LAC vs. UTA): 19 PTS,  8 REB,  2 AST,  0 STL,  1 BLK,  1 TOV,  33.50 FPTS
+LaMarcus Aldridge     (SAS vs. LAL):  8 PTS,  5 REB,  2 AST,  1 STL,  1 BLK,  2 TOV,  20.25 FPTS
+Rudy Gobert           ( UTA @ LAC ): 12 PTS, 14 REB,  0 AST,  0 STL,  0 BLK,  0 TOV,  29.50 FPTS
+Luka Doncic           ( DAL @ CLE ): 29 PTS, 14 REB, 15 AST,  0 STL,  0 BLK,  5 TOV,  64.00 FPTS
+Russell Westbrook     ( HOU @ MIA ): 10 PTS,  4 REB,  6 AST,  1 STL,  1 BLK,  7 TOV,  22.00 FPTS
+Bam Adebayo           (MIA vs. HOU):  8 PTS,  5 REB,  5 AST,  2 STL,  1 BLK,  4 TOV,  25.25 FPTS
+Kawhi Leonard         (LAC vs. UTA): 30 PTS,  6 REB,  3 AST,  3 STL,  1 BLK,  2 TOV,  50.00 FPTS
+LeBron James          ( LAL @ SAS ): 21 PTS, 11 REB, 13 AST,  2 STL,  1 BLK,  5 TOV,  56.75 FPTS
+Anthony Davis         ( LAL @ SAS ): 25 PTS, 11 REB,  2 AST,  0 STL,  4 BLK,  6 TOV,  45.75 FPTS
+Donovan Mitchell      ( UTA @ LAC ): 36 PTS,  4 REB,  6 AST,  2 STL,  0 BLK,  2 TOV,  53.00 FPTS
+DeMar DeRozan         (SAS vs. LAL): 14 PTS,  7 REB,  5 AST,  0 STL,  1 BLK,  3 TOV,  29.75 FPTS
+Zach LaVine           ( CHI @ IND ): 21 PTS,  5 REB,  2 AST,  0 STL,  0 BLK,  3 TOV,  27.25 FPTS
+
+**2019-11-04**
+Giannis Antetokounmpo ( MIL @ MIN ): 34 PTS, 15 REB,  6 AST,  0 STL,  0 BLK,  3 TOV,  58.75 FPTS
+Damian Lillard        ( POR @ GSW ): 39 PTS,  2 REB,  4 AST,  0 STL,  1 BLK,  1 TOV,  49.00 FPTS
+CJ McCollum           ( POR @ GSW ): 14 PTS,  1 REB,  6 AST,  0 STL,  0 BLK,  0 TOV,  24.25 FPTS
+Tobias Harris         ( PHI @ PHX ): 24 PTS, 10 REB,  2 AST,  2 STL,  0 BLK,  2 TOV,  42.50 FPTS
+Clint Capela          ( HOU @ MEM ): 10 PTS, 13 REB,  2 AST,  1 STL,  0 BLK,  2 TOV,  29.75 FPTS
+James Harden          ( HOU @ MEM ): 44 PTS, 10 REB,  6 AST,  2 STL,  1 BLK,  7 TOV,  66.00 FPTS
+Devin Booker          (PHX vs. PHI): 40 PTS,  4 REB,  3 AST,  0 STL,  1 BLK,  3 TOV,  49.00 FPTS
+Andre Drummond        ( DET @ WAS ): 15 PTS, 24 REB,  4 AST,  2 STL,  2 BLK,  4 TOV,  57.00 FPTS
+Bradley Beal          (WAS vs. DET): 22 PTS,  5 REB,  6 AST,  1 STL,  0 BLK,  5 TOV,  34.75 FPTS
+Jrue Holiday          ( NOP @ BKN ): 15 PTS,  7 REB,  3 AST,  4 STL,  2 BLK,  2 TOV,  41.25 FPTS
+
+**2019-11-05**
+Trae Young            (ATL vs. SAS): 29 PTS,  2 REB, 13 AST,  2 STL,  0 BLK,  3 TOV,  53.00 FPTS
+LaMarcus Aldridge     ( SAS @ ATL ): 14 PTS,  5 REB,  4 AST,  0 STL,  4 BLK,  2 TOV,  34.25 FPTS
+Devonte' Graham       (CHA vs. IND): 35 PTS,  4 REB,  6 AST,  3 STL,  0 BLK,  2 TOV,  54.50 FPTS
+Bam Adebayo           ( MIA @ DEN ):  6 PTS, 11 REB,  3 AST,  0 STL,  2 BLK,  1 TOV,  28.25 FPTS
+Nikola Jokic          (DEN vs. MIA):  9 PTS,  5 REB,  5 AST,  1 STL,  1 BLK,  4 TOV,  23.75 FPTS
+Jayson Tatum          ( BOS @ CLE ): 18 PTS,  7 REB,  1 AST,  1 STL,  2 BLK,  4 TOV,  31.75 FPTS
+LeBron James          ( LAL @ CHI ): 30 PTS, 10 REB, 11 AST,  2 STL,  1 BLK,  2 TOV,  64.50 FPTS
+Anthony Davis         ( LAL @ CHI ): 15 PTS,  7 REB,  3 AST,  1 STL,  3 BLK,  3 TOV,  35.25 FPTS
+DeMar DeRozan         ( SAS @ ATL ): 22 PTS,  4 REB,  4 AST,  3 STL,  2 BLK,  3 TOV,  42.50 FPTS
+Zach LaVine           (CHI vs. LAL): 26 PTS,  7 REB,  7 AST,  2 STL,  0 BLK,  3 TOV,  47.25 FPTS
+
+**2019-11-06**
+Giannis Antetokounmpo ( MIL @ LAC ): 38 PTS, 16 REB,  9 AST,  2 STL,  2 BLK,  3 TOV,  78.50 FPTS
+Trae Young            (ATL vs. CHI):  9 PTS,  3 REB,  3 AST,  0 STL,  0 BLK,  4 TOV,  13.25 FPTS
+Lou Williams          (LAC vs. MIL): 34 PTS,  6 REB, 11 AST,  0 STL,  0 BLK,  6 TOV,  52.00 FPTS
+Tobias Harris         ( PHI @ UTA ): 16 PTS,  7 REB,  3 AST,  0 STL,  0 BLK,  2 TOV,  27.25 FPTS
+Domantas Sabonis      (IND vs. WAS): 13 PTS, 17 REB,  7 AST,  2 STL,  1 BLK,  4 TOV,  48.25 FPTS
+Clint Capela          (HOU vs. GSW): 19 PTS, 16 REB,  2 AST,  1 STL,  6 BLK,  1 TOV,  58.50 FPTS
+James Harden          (HOU vs. GSW): 36 PTS,  4 REB, 13 AST,  3 STL,  3 BLK,  5 TOV,  70.50 FPTS
+Karl-Anthony Towns    ( MIN @ MEM ): 25 PTS, 13 REB,  2 AST,  0 STL,  2 BLK,  3 TOV,  46.25 FPTS
+Pascal Siakam         (TOR vs. SAC): 23 PTS, 13 REB,  5 AST,  2 STL,  0 BLK,  3 TOV,  48.75 FPTS
+Montrezl Harrell      (LAC vs. MIL): 34 PTS, 13 REB,  5 AST,  1 STL,  1 BLK,  1 TOV,  61.75 FPTS
+Rudy Gobert           (UTA vs. PHI): 14 PTS, 16 REB,  3 AST,  3 STL,  1 BLK,  0 TOV,  48.50 FPTS
+Luka Doncic           (DAL vs. ORL): 27 PTS,  7 REB,  7 AST,  0 STL,  0 BLK,  6 TOV,  40.25 FPTS
+Andre Drummond        (DET vs. NYK): 27 PTS, 12 REB,  7 AST,  1 STL,  0 BLK,  4 TOV,  51.00 FPTS
+Bradley Beal          ( WAS @ IND ): 30 PTS,  5 REB,  5 AST,  0 STL,  0 BLK,  3 TOV,  40.75 FPTS
+Russell Westbrook     (HOU vs. GSW): 18 PTS,  8 REB,  6 AST,  2 STL,  0 BLK,  3 TOV,  39.00 FPTS
+Donovan Mitchell      (UTA vs. PHI): 24 PTS,  5 REB,  8 AST,  1 STL,  0 BLK,  4 TOV,  40.75 FPTS
+Zach LaVine           ( CHI @ ATL ): 10 PTS,  8 REB,  4 AST,  2 STL,  2 BLK,  4 TOV,  32.00 FPTS
+Fred VanVleet         (TOR vs. SAC): 12 PTS,  2 REB,  5 AST,  1 STL,  0 BLK,  1 TOV,  23.50 FPTS
+Joel Embiid           ( PHI @ UTA ): 27 PTS, 16 REB,  3 AST,  0 STL,  2 BLK,  3 TOV,  53.50 FPTS
+
+**2019-11-07**
+Damian Lillard        ( POR @ LAC ): 22 PTS,  6 REB,  6 AST,  3 STL,  0 BLK,  3 TOV,  43.00 FPTS
+CJ McCollum           ( POR @ LAC ): 22 PTS,  7 REB,  3 AST,  0 STL,  0 BLK,  2 TOV,  33.25 FPTS
+Lou Williams          (LAC vs. POR): 26 PTS,  3 REB,  8 AST,  0 STL,  3 BLK,  3 TOV,  46.25 FPTS
+Montrezl Harrell      (LAC vs. POR): 15 PTS,  6 REB,  1 AST,  2 STL,  3 BLK,  1 TOV,  35.50 FPTS
+LaMarcus Aldridge     (SAS vs. OKC): 39 PTS,  6 REB,  4 AST,  2 STL,  1 BLK,  3 TOV,  57.00 FPTS
+Devin Booker          (PHX vs. MIA): 22 PTS,  3 REB,  5 AST,  1 STL,  0 BLK,  6 TOV,  29.75 FPTS
+Devonte' Graham       (CHA vs. BOS): 15 PTS,  4 REB,  9 AST,  2 STL,  0 BLK,  2 TOV,  36.50 FPTS
+Bam Adebayo           ( MIA @ PHX ): 15 PTS, 10 REB,  6 AST,  5 STL,  1 BLK,  2 TOV,  49.50 FPTS
+Kawhi Leonard         (LAC vs. POR): 27 PTS, 13 REB,  4 AST,  1 STL,  2 BLK,  6 TOV,  50.75 FPTS
+Jayson Tatum          ( BOS @ CHA ): 23 PTS,  9 REB,  1 AST,  2 STL,  1 BLK,  1 TOV,  42.25 FPTS
+DeMar DeRozan         (SAS vs. OKC): 16 PTS,  6 REB,  9 AST,  1 STL,  0 BLK,  3 TOV,  36.50 FPTS
+
+**2019-11-08**
+Giannis Antetokounmpo ( MIL @ UTA ): 30 PTS, 13 REB,  4 AST,  2 STL,  2 BLK,  5 TOV,  57.25 FPTS
+Damian Lillard        (POR vs. BKN): 60 PTS,  4 REB,  5 AST,  0 STL,  0 BLK,  2 TOV,  70.50 FPTS
+Trae Young            (ATL vs. SAC): 30 PTS,  2 REB, 12 AST,  5 STL,  0 BLK,  5 TOV,  58.00 FPTS
+CJ McCollum           (POR vs. BKN):  8 PTS,  5 REB,  0 AST,  1 STL,  2 BLK,  2 TOV,  19.75 FPTS
+Tobias Harris         ( PHI @ DEN ): 13 PTS, 10 REB,  4 AST,  2 STL,  2 BLK,  1 TOV,  40.50 FPTS
+Domantas Sabonis      (IND vs. DET): 17 PTS, 14 REB,  6 AST,  0 STL,  1 BLK,  1 TOV,  45.00 FPTS
+Karl-Anthony Towns    (MIN vs. GSW): 20 PTS, 14 REB,  4 AST,  0 STL,  1 BLK,  2 TOV,  44.00 FPTS
+Pascal Siakam         ( TOR @ NOP ): 44 PTS, 10 REB,  4 AST,  0 STL,  0 BLK,  4 TOV,  58.50 FPTS
+Rudy Gobert           (UTA vs. MIL):  8 PTS, 17 REB,  0 AST,  0 STL,  1 BLK,  3 TOV,  28.75 FPTS
+Luka Doncic           (DAL vs. NYK): 38 PTS, 14 REB, 10 AST,  0 STL,  0 BLK,  8 TOV,  62.50 FPTS
+Andre Drummond        ( DET @ IND ): 15 PTS, 13 REB,  8 AST,  0 STL,  1 BLK,  4 TOV,  41.75 FPTS
+Bradley Beal          (WAS vs. CLE): 20 PTS,  5 REB,  9 AST,  0 STL,  0 BLK,  4 TOV,  35.75 FPTS
+Bam Adebayo           ( MIA @ LAL ): 11 PTS,  9 REB,  4 AST,  3 STL,  1 BLK,  3 TOV,  35.25 FPTS
+Nikola Jokic          (DEN vs. PHI): 26 PTS, 10 REB,  6 AST,  2 STL,  2 BLK,  1 TOV,  56.50 FPTS
+LeBron James          (LAL vs. MIA): 25 PTS,  4 REB,  6 AST,  0 STL,  0 BLK,  3 TOV,  36.00 FPTS
+Anthony Davis         (LAL vs. MIA): 26 PTS,  8 REB,  7 AST,  2 STL,  3 BLK,  2 TOV,  57.00 FPTS
+Donovan Mitchell      (UTA vs. MIL): 19 PTS,  5 REB,  6 AST,  1 STL,  0 BLK,  8 TOV,  28.75 FPTS
+Jrue Holiday          (NOP vs. TOR): 16 PTS,  6 REB,  6 AST,  3 STL,  0 BLK,  2 TOV,  38.00 FPTS
+Fred VanVleet         ( TOR @ NOP ): 12 PTS,  5 REB, 11 AST,  3 STL,  0 BLK,  3 TOV,  39.25 FPTS
+Joel Embiid           ( PHI @ DEN ): 19 PTS, 15 REB,  2 AST,  0 STL,  1 BLK,  8 TOV,  35.25 FPTS
+
+**2019-11-09**
+Clint Capela          ( HOU @ CHI ): 16 PTS, 20 REB,  1 AST,  0 STL,  4 BLK,  0 TOV,  52.50 FPTS
+James Harden          ( HOU @ CHI ): 42 PTS, 10 REB,  9 AST,  2 STL,  0 BLK,  6 TOV,  67.00 FPTS
+LaMarcus Aldridge     (SAS vs. BOS):  3 PTS,  4 REB,  1 AST,  0 STL,  1 BLK,  2 TOV,  10.00 FPTS
+Devonte' Graham       (CHA vs. NOP): 24 PTS,  5 REB, 10 AST,  2 STL,  0 BLK,  4 TOV,  46.25 FPTS
+Luka Doncic           ( DAL @ MEM ): 24 PTS, 14 REB,  8 AST,  2 STL,  0 BLK,  2 TOV,  56.50 FPTS
+Russell Westbrook     ( HOU @ CHI ): 26 PTS,  6 REB,  2 AST,  1 STL,  0 BLK,  7 TOV,  32.00 FPTS
+Jayson Tatum          ( BOS @ SAS ): 19 PTS,  7 REB,  4 AST,  3 STL,  0 BLK,  2 TOV,  39.25 FPTS
+DeMar DeRozan         (SAS vs. BOS): 22 PTS,  2 REB,  4 AST,  0 STL,  0 BLK,  2 TOV,  28.50 FPTS
+Zach LaVine           (CHI vs. HOU): 11 PTS,  1 REB,  5 AST,  2 STL,  1 BLK,  4 TOV,  23.25 FPTS
+Jrue Holiday          ( NOP @ CHA ): 12 PTS,  5 REB, 11 AST,  2 STL,  1 BLK,  4 TOV,  38.25 FPTS
+
+**2019-11-10**
+Giannis Antetokounmpo ( MIL @ OKC ): 35 PTS, 16 REB,  3 AST,  1 STL,  1 BLK,  7 TOV,  57.50 FPTS
+Damian Lillard        (POR vs. ATL): 30 PTS,  7 REB,  6 AST,  1 STL,  1 BLK,  4 TOV,  48.75 FPTS
+Trae Young            ( ATL @ POR ): 35 PTS,  8 REB, 10 AST,  3 STL,  0 BLK,  7 TOV,  60.50 FPTS
+CJ McCollum           (POR vs. ATL): 23 PTS,  8 REB,  4 AST,  2 STL,  2 BLK,  3 TOV,  46.00 FPTS
+Tobias Harris         (PHI vs. CHA): 14 PTS,  7 REB,  5 AST,  1 STL,  2 BLK,  4 TOV,  33.75 FPTS
+Domantas Sabonis      ( IND @ ORL ): 21 PTS, 16 REB,  7 AST,  1 STL,  1 BLK,  2 TOV,  54.50 FPTS
+Karl-Anthony Towns    (MIN vs. DEN): 25 PTS, 16 REB,  6 AST,  1 STL,  2 BLK,  5 TOV,  56.50 FPTS
+Pascal Siakam         ( TOR @ LAL ): 24 PTS, 11 REB,  4 AST,  1 STL,  3 BLK,  3 TOV,  50.75 FPTS
+Devin Booker          (PHX vs. BKN): 27 PTS,  2 REB,  9 AST,  0 STL,  0 BLK,  2 TOV,  41.00 FPTS
+Devonte' Graham       ( CHA @ PHI ): 19 PTS,  0 REB, 10 AST,  1 STL,  0 BLK,  2 TOV,  34.50 FPTS
+Nikola Jokic          ( DEN @ MIN ): 20 PTS,  6 REB,  7 AST,  1 STL,  1 BLK,  0 TOV,  43.00 FPTS
+LeBron James          (LAL vs. TOR): 13 PTS, 13 REB, 15 AST,  0 STL,  1 BLK,  2 TOV,  52.25 FPTS
+Anthony Davis         (LAL vs. TOR): 27 PTS,  8 REB,  3 AST,  2 STL,  4 BLK,  5 TOV,  51.50 FPTS
+Fred VanVleet         ( TOR @ LAL ): 23 PTS,  7 REB, 10 AST,  2 STL,  0 BLK,  3 TOV,  48.75 FPTS
+Joel Embiid           (PHI vs. CHA): 18 PTS,  9 REB,  3 AST,  2 STL,  2 BLK,  2 TOV,  41.75 FPTS
+
+**2019-11-11**
+Lou Williams          (LAC vs. TOR): 21 PTS,  4 REB,  4 AST,  1 STL,  0 BLK,  2 TOV,  32.50 FPTS
+Clint Capela          ( HOU @ NOP ): 11 PTS, 20 REB,  1 AST,  1 STL,  2 BLK,  1 TOV,  44.00 FPTS
+James Harden          ( HOU @ NOP ): 39 PTS,  4 REB,  9 AST,  2 STL,  1 BLK,  6 TOV,  59.00 FPTS
+Karl-Anthony Towns    ( MIN @ DET ): 25 PTS,  8 REB,  6 AST,  0 STL,  2 BLK,  1 TOV,  48.00 FPTS
+Pascal Siakam         ( TOR @ LAC ): 16 PTS, 10 REB,  6 AST,  0 STL,  1 BLK,  1 TOV,  39.00 FPTS
+Montrezl Harrell      (LAC vs. TOR): 14 PTS, 11 REB,  2 AST,  2 STL,  3 BLK,  2 TOV,  41.25 FPTS
+LaMarcus Aldridge     (SAS vs. MEM): 19 PTS,  4 REB,  3 AST,  2 STL,  0 BLK,  1 TOV,  32.50 FPTS
+Rudy Gobert           ( UTA @ GSW ): 25 PTS, 14 REB,  1 AST,  1 STL,  2 BLK,  0 TOV,  51.50 FPTS
+Luka Doncic           ( DAL @ BOS ): 34 PTS,  6 REB,  9 AST,  0 STL,  0 BLK,  1 TOV,  54.00 FPTS
+Andre Drummond        (DET vs. MIN): 11 PTS, 12 REB,  1 AST,  4 STL,  3 BLK,  3 TOV,  42.00 FPTS
+Russell Westbrook     ( HOU @ NOP ): 26 PTS,  5 REB,  4 AST,  4 STL,  0 BLK,  6 TOV,  42.25 FPTS
+Kawhi Leonard         (LAC vs. TOR): 12 PTS, 11 REB,  9 AST,  3 STL,  0 BLK,  9 TOV,  37.75 FPTS
+Jayson Tatum          (BOS vs. DAL):  5 PTS,  8 REB,  4 AST,  1 STL,  0 BLK,  1 TOV,  22.50 FPTS
+Donovan Mitchell      ( UTA @ GSW ): 23 PTS,  8 REB,  6 AST,  0 STL,  0 BLK,  2 TOV,  40.00 FPTS
+DeMar DeRozan         (SAS vs. MEM): 12 PTS,  7 REB,  7 AST,  0 STL,  0 BLK,  2 TOV,  29.25 FPTS
+Jrue Holiday          (NOP vs. HOU): 18 PTS,  9 REB, 11 AST,  1 STL,  1 BLK,  6 TOV,  44.75 FPTS
+Fred VanVleet         ( TOR @ LAC ): 14 PTS,  2 REB,  8 AST,  3 STL,  0 BLK,  3 TOV,  33.00 FPTS
+
+**2019-11-12**
+Damian Lillard        ( POR @ SAC ): 27 PTS,  4 REB,  5 AST,  2 STL,  1 BLK,  5 TOV,  42.00 FPTS
+Trae Young            ( ATL @ DEN ): 42 PTS,  4 REB, 11 AST,  0 STL,  1 BLK,  6 TOV,  60.00 FPTS
+CJ McCollum           ( POR @ SAC ): 24 PTS,  5 REB,  1 AST,  0 STL,  1 BLK,  1 TOV,  33.25 FPTS
+Tobias Harris         (PHI vs. CLE):  8 PTS,  5 REB,  4 AST,  0 STL,  0 BLK,  1 TOV,  19.25 FPTS
+Domantas Sabonis      (IND vs. OKC): 18 PTS, 16 REB,  2 AST,  0 STL,  1 BLK,  2 TOV,  41.50 FPTS
+Devin Booker          (PHX vs. LAL): 21 PTS,  3 REB,  9 AST,  0 STL,  1 BLK,  5 TOV,  35.75 FPTS
+Rudy Gobert           (UTA vs. BKN): 18 PTS, 15 REB,  2 AST,  2 STL,  2 BLK,  2 TOV,  47.75 FPTS
+Andre Drummond        ( DET @ MIA ): 16 PTS,  9 REB,  0 AST,  2 STL,  2 BLK,  5 TOV,  32.25 FPTS
+Bam Adebayo           (MIA vs. DET): 18 PTS, 14 REB,  2 AST,  0 STL,  0 BLK,  4 TOV,  34.50 FPTS
+Nikola Jokic          (DEN vs. ATL): 20 PTS,  6 REB,  7 AST,  3 STL,  0 BLK,  2 TOV,  43.50 FPTS
+LeBron James          ( LAL @ PHX ): 19 PTS,  7 REB, 11 AST,  0 STL,  0 BLK,  1 TOV,  43.25 FPTS
+Anthony Davis         ( LAL @ PHX ): 24 PTS, 12 REB,  4 AST,  2 STL,  1 BLK,  1 TOV,  51.50 FPTS
+Donovan Mitchell      (UTA vs. BKN): 30 PTS,  6 REB,  2 AST,  1 STL,  0 BLK,  2 TOV,  41.00 FPTS
+Zach LaVine           (CHI vs. NYK): 25 PTS,  2 REB,  5 AST,  1 STL,  0 BLK,  3 TOV,  34.50 FPTS
+Joel Embiid           (PHI vs. CLE): 27 PTS, 16 REB,  4 AST,  1 STL,  2 BLK,  2 TOV,  58.50 FPTS
+
+**2019-11-13**
+Damian Lillard        (POR vs. TOR):  9 PTS,  1 REB, 10 AST,  0 STL,  2 BLK,  2 TOV,  28.25 FPTS
+CJ McCollum           (POR vs. TOR): 19 PTS,  6 REB,  4 AST,  1 STL,  1 BLK,  1 TOV,  36.50 FPTS
+Lou Williams          ( LAC @ HOU ): 20 PTS,  7 REB,  4 AST,  0 STL,  0 BLK,  2 TOV,  32.75 FPTS
+Tobias Harris         ( PHI @ ORL ):  8 PTS, 10 REB,  6 AST,  2 STL,  1 BLK,  3 TOV,  34.00 FPTS
+Clint Capela          (HOU vs. LAC): 12 PTS, 20 REB,  0 AST,  0 STL,  2 BLK,  1 TOV,  41.00 FPTS
+James Harden          (HOU vs. LAC): 47 PTS,  6 REB,  7 AST,  3 STL,  0 BLK,  6 TOV,  66.50 FPTS
+Karl-Anthony Towns    (MIN vs. SAS): 28 PTS, 11 REB,  4 AST,  2 STL,  0 BLK,  2 TOV,  50.75 FPTS
+Pascal Siakam         ( TOR @ POR ): 36 PTS,  6 REB,  3 AST,  1 STL,  1 BLK,  4 TOV,  49.00 FPTS
+Montrezl Harrell      ( LAC @ HOU ):  4 PTS,  9 REB,  2 AST,  0 STL,  1 BLK,  1 TOV,  19.75 FPTS
+LaMarcus Aldridge     ( SAS @ MIN ): 23 PTS,  4 REB,  2 AST,  0 STL,  1 BLK,  0 TOV,  33.50 FPTS
+Devonte' Graham       (CHA vs. MEM): 19 PTS,  1 REB,  4 AST,  0 STL,  1 BLK,  5 TOV,  23.75 FPTS
+Bradley Beal          ( WAS @ BOS ): 44 PTS,  5 REB,  6 AST,  1 STL,  0 BLK,  1 TOV,  60.75 FPTS
+Russell Westbrook     (HOU vs. LAC): 17 PTS,  2 REB,  2 AST,  0 STL,  0 BLK,  2 TOV,  20.50 FPTS
+Kawhi Leonard         ( LAC @ HOU ): 26 PTS, 12 REB,  7 AST,  1 STL,  1 BLK,  4 TOV,  52.50 FPTS
+Jayson Tatum          (BOS vs. WAS): 23 PTS,  3 REB,  4 AST,  0 STL,  0 BLK,  1 TOV,  31.75 FPTS
+LeBron James          (LAL vs. GSW): 23 PTS,  6 REB, 12 AST,  1 STL,  1 BLK,  4 TOV,  49.50 FPTS
+DeMar DeRozan         ( SAS @ MIN ): 27 PTS,  5 REB,  4 AST,  1 STL,  2 BLK,  2 TOV,  44.75 FPTS
+Fred VanVleet         ( TOR @ POR ): 30 PTS,  4 REB,  7 AST,  2 STL,  1 BLK,  2 TOV,  51.00 FPTS
+
+**2019-11-14**
+Giannis Antetokounmpo (MIL vs. CHI): 38 PTS, 16 REB,  4 AST,  3 STL,  1 BLK,  5 TOV,  69.00 FPTS
+Trae Young            ( ATL @ PHX ): 21 PTS,  1 REB, 13 AST,  2 STL,  0 BLK,  5 TOV,  41.75 FPTS
+Lou Williams          ( LAC @ NOP ): 31 PTS,  2 REB,  9 AST,  2 STL,  0 BLK,  2 TOV,  50.00 FPTS
+Montrezl Harrell      ( LAC @ NOP ): 18 PTS,  7 REB,  6 AST,  2 STL,  2 BLK,  2 TOV,  43.75 FPTS
+Devin Booker          (PHX vs. ATL): 27 PTS,  2 REB,  7 AST,  2 STL,  0 BLK,  7 TOV,  38.00 FPTS
+Luka Doncic           ( DAL @ NYK ): 33 PTS, 10 REB, 11 AST,  3 STL,  1 BLK,  3 TOV,  69.00 FPTS
+Bam Adebayo           ( MIA @ CLE ): 16 PTS, 15 REB,  5 AST,  0 STL,  1 BLK,  1 TOV,  43.75 FPTS
+Nikola Jokic          (DEN vs. BKN): 18 PTS, 10 REB,  3 AST,  0 STL,  0 BLK,  0 TOV,  35.00 FPTS
+Zach LaVine           ( CHI @ MIL ): 25 PTS,  3 REB,  7 AST,  3 STL,  1 BLK,  5 TOV,  44.25 FPTS
+Jrue Holiday          (NOP vs. LAC): 36 PTS,  3 REB,  7 AST,  6 STL,  1 BLK,  6 TOV,  61.75 FPTS
+
+**2019-11-15**
+Tobias Harris         ( PHI @ OKC ): 21 PTS,  6 REB,  3 AST,  0 STL,  0 BLK,  3 TOV,  30.00 FPTS
+Domantas Sabonis      ( IND @ HOU ): 18 PTS, 13 REB,  3 AST,  0 STL,  0 BLK,  4 TOV,  34.75 FPTS
+James Harden          (HOU vs. IND): 44 PTS,  8 REB,  5 AST,  4 STL,  0 BLK,  3 TOV,  68.50 FPTS
+Karl-Anthony Towns    (MIN vs. WAS): 36 PTS, 10 REB,  3 AST,  0 STL,  1 BLK,  7 TOV,  48.50 FPTS
+LaMarcus Aldridge     ( SAS @ ORL ): 13 PTS,  6 REB,  2 AST,  0 STL,  5 BLK,  0 TOV,  36.00 FPTS
+Devonte' Graham       (CHA vs. DET): 18 PTS,  5 REB, 10 AST,  0 STL,  0 BLK,  1 TOV,  38.25 FPTS
+Rudy Gobert           ( UTA @ MEM ): 23 PTS, 17 REB,  1 AST,  0 STL,  5 BLK,  3 TOV,  55.25 FPTS
+Andre Drummond        ( DET @ CHA ): 16 PTS, 20 REB,  2 AST,  0 STL,  0 BLK,  4 TOV,  40.00 FPTS
+Bradley Beal          ( WAS @ MIN ): 44 PTS,  3 REB, 10 AST,  2 STL,  1 BLK,  5 TOV,  65.25 FPTS
+Russell Westbrook     (HOU vs. IND): 17 PTS,  8 REB,  6 AST,  1 STL,  0 BLK,  1 TOV,  37.50 FPTS
+Jayson Tatum          ( BOS @ GSW ): 24 PTS,  8 REB,  1 AST,  3 STL,  0 BLK,  2 TOV,  41.00 FPTS
+LeBron James          (LAL vs. SAC): 29 PTS,  4 REB, 11 AST,  3 STL,  0 BLK,  2 TOV,  56.00 FPTS
+Anthony Davis         (LAL vs. SAC): 17 PTS,  5 REB,  2 AST,  1 STL,  4 BLK,  4 TOV,  34.75 FPTS
+Donovan Mitchell      ( UTA @ MEM ): 29 PTS,  9 REB,  5 AST,  2 STL,  1 BLK,  2 TOV,  53.25 FPTS
+DeMar DeRozan         ( SAS @ ORL ): 21 PTS,  2 REB,  5 AST,  1 STL,  0 BLK,  2 TOV,  31.50 FPTS
+Joel Embiid           ( PHI @ OKC ): 31 PTS, 12 REB,  2 AST,  1 STL,  0 BLK,  1 TOV,  50.50 FPTS
+
+**2019-11-16**
+Giannis Antetokounmpo ( MIL @ IND ): 26 PTS, 13 REB,  6 AST,  1 STL,  1 BLK,  5 TOV,  51.25 FPTS
+Damian Lillard        ( POR @ SAS ): 22 PTS,  6 REB,  6 AST,  1 STL,  0 BLK,  2 TOV,  39.00 FPTS
+Trae Young            ( ATL @ LAC ): 20 PTS,  5 REB,  6 AST,  1 STL,  0 BLK,  3 TOV,  34.75 FPTS
+CJ McCollum           ( POR @ SAS ): 32 PTS,  6 REB,  7 AST,  1 STL,  0 BLK,  2 TOV,  50.50 FPTS
+Lou Williams          (LAC vs. ATL): 25 PTS,  6 REB,  6 AST,  0 STL,  0 BLK,  3 TOV,  38.50 FPTS
+Domantas Sabonis      (IND vs. MIL): 11 PTS, 14 REB,  2 AST,  1 STL,  0 BLK,  3 TOV,  31.00 FPTS
+James Harden          ( HOU @ MIN ): 49 PTS,  6 REB,  6 AST,  0 STL,  0 BLK,  5 TOV,  60.50 FPTS
+Karl-Anthony Towns    (MIN vs. HOU): 27 PTS, 14 REB,  0 AST,  2 STL,  2 BLK,  1 TOV,  53.50 FPTS
+Pascal Siakam         ( TOR @ DAL ): 15 PTS,  3 REB,  7 AST,  1 STL,  1 BLK,  5 TOV,  29.25 FPTS
+Montrezl Harrell      (LAC vs. ATL): 17 PTS,  4 REB,  2 AST,  0 STL,  1 BLK,  2 TOV,  25.50 FPTS
+LaMarcus Aldridge     (SAS vs. POR): 30 PTS, 13 REB,  2 AST,  1 STL,  1 BLK,  2 TOV,  52.25 FPTS
+Devonte' Graham       ( CHA @ NYK ): 29 PTS,  4 REB,  2 AST,  0 STL,  0 BLK,  5 TOV,  32.00 FPTS
+Luka Doncic           (DAL vs. TOR): 26 PTS, 15 REB,  7 AST,  2 STL,  0 BLK,  7 TOV,  53.25 FPTS
+Bam Adebayo           (MIA vs. NOP): 18 PTS, 13 REB,  4 AST,  2 STL,  3 BLK,  2 TOV,  50.75 FPTS
+DeMar DeRozan         (SAS vs. POR): 16 PTS,  7 REB,  5 AST,  1 STL,  0 BLK,  3 TOV,  31.75 FPTS
+Zach LaVine           (CHI vs. BKN): 36 PTS,  3 REB,  1 AST,  0 STL,  0 BLK,  3 TOV,  38.25 FPTS
+Jrue Holiday          ( NOP @ MIA ): 14 PTS,  2 REB,  4 AST,  2 STL,  0 BLK,  6 TOV,  21.50 FPTS
+Fred VanVleet         ( TOR @ DAL ): 24 PTS,  5 REB,  7 AST,  1 STL,  0 BLK,  3 TOV,  40.25 FPTS
+
+**2019-11-17**
+Trae Young            ( ATL @ LAL ): 31 PTS,  3 REB,  7 AST,  2 STL,  0 BLK,  8 TOV,  42.25 FPTS
+Tobias Harris         ( PHI @ CLE ): 27 PTS,  5 REB,  4 AST,  2 STL,  2 BLK,  1 TOV,  48.25 FPTS
+Bradley Beal          ( WAS @ ORL ): 34 PTS,  6 REB,  8 AST,  1 STL,  0 BLK,  3 TOV,  53.00 FPTS
+Nikola Jokic          ( DEN @ MEM ):  9 PTS,  5 REB,  8 AST,  0 STL,  0 BLK,  2 TOV,  25.25 FPTS
+Jayson Tatum          ( BOS @ SAC ): 14 PTS,  6 REB,  2 AST,  0 STL,  1 BLK,  1 TOV,  26.00 FPTS
+LeBron James          (LAL vs. ATL): 33 PTS,  7 REB, 12 AST,  1 STL,  1 BLK,  0 TOV,  64.75 FPTS
+Anthony Davis         (LAL vs. ATL): 14 PTS,  1 REB,  5 AST,  0 STL,  5 BLK,  4 TOV,  31.25 FPTS
+Jrue Holiday          (NOP vs. GSW): 22 PTS,  8 REB,  9 AST,  1 STL,  1 BLK,  4 TOV,  46.50 FPTS
+Joel Embiid           ( PHI @ CLE ): 14 PTS,  4 REB,  2 AST,  1 STL,  1 BLK,  2 TOV,  25.00 FPTS
+
+**2019-11-18**
+Giannis Antetokounmpo ( MIL @ CHI ): 33 PTS, 10 REB,  2 AST,  3 STL,  1 BLK,  8 TOV,  50.50 FPTS
+Damian Lillard        ( POR @ HOU ): 13 PTS,  6 REB, 11 AST,  0 STL,  0 BLK,  4 TOV,  33.00 FPTS
+CJ McCollum           ( POR @ HOU ): 25 PTS,  5 REB,  3 AST,  2 STL,  0 BLK,  2 TOV,  38.75 FPTS
+Lou Williams          (LAC vs. OKC): 11 PTS,  1 REB,  9 AST,  1 STL,  0 BLK,  2 TOV,  26.25 FPTS
+Domantas Sabonis      ( IND @ BKN ): 16 PTS, 18 REB,  3 AST,  0 STL,  2 BLK,  2 TOV,  46.00 FPTS
+Clint Capela          (HOU vs. POR): 22 PTS, 20 REB,  0 AST,  1 STL,  4 BLK,  1 TOV,  58.50 FPTS
+James Harden          (HOU vs. POR): 36 PTS,  6 REB,  5 AST,  1 STL,  1 BLK,  3 TOV,  53.00 FPTS
+Karl-Anthony Towns    ( MIN @ UTA ): 29 PTS, 13 REB,  5 AST,  2 STL,  2 BLK,  5 TOV,  57.75 FPTS
+Pascal Siakam         (TOR vs. CHA): 20 PTS,  8 REB,  5 AST,  1 STL,  1 BLK,  0 TOV,  42.50 FPTS
+Montrezl Harrell      (LAC vs. OKC): 28 PTS, 12 REB,  5 AST,  1 STL,  1 BLK,  2 TOV,  53.50 FPTS
+LaMarcus Aldridge     ( SAS @ DAL ): 16 PTS,  9 REB,  2 AST,  0 STL,  1 BLK,  1 TOV,  31.75 FPTS
+Devin Booker          (PHX vs. BOS): 20 PTS,  1 REB,  4 AST,  0 STL,  0 BLK,  5 TOV,  22.25 FPTS
+Devonte' Graham       ( CHA @ TOR ): 11 PTS,  2 REB,  5 AST,  1 STL,  0 BLK,  4 TOV,  19.50 FPTS
+Rudy Gobert           (UTA vs. MIN): 16 PTS, 14 REB,  1 AST,  1 STL,  1 BLK,  2 TOV,  38.00 FPTS
+Luka Doncic           (DAL vs. SAS): 42 PTS, 11 REB, 12 AST,  0 STL,  0 BLK,  5 TOV,  68.75 FPTS
+Russell Westbrook     (HOU vs. POR): 28 PTS, 13 REB, 10 AST,  2 STL,  1 BLK,  5 TOV,  61.75 FPTS
+Jayson Tatum          ( BOS @ PHX ): 26 PTS, 11 REB,  3 AST,  1 STL,  0 BLK,  4 TOV,  42.75 FPTS
+Donovan Mitchell      (UTA vs. MIN): 17 PTS,  7 REB,  2 AST,  0 STL,  1 BLK,  2 TOV,  29.25 FPTS
+DeMar DeRozan         ( SAS @ DAL ): 36 PTS,  8 REB,  4 AST,  1 STL,  0 BLK,  1 TOV,  53.50 FPTS
+Zach LaVine           (CHI vs. MIL): 11 PTS,  8 REB,  4 AST,  0 STL,  0 BLK,  3 TOV,  24.00 FPTS
+Fred VanVleet         (TOR vs. CHA): 11 PTS,  4 REB,  8 AST,  5 STL,  0 BLK,  2 TOV,  38.50 FPTS
+
+**2019-11-19**
+CJ McCollum           ( POR @ NOP ): 22 PTS,  4 REB,  5 AST,  2 STL,  1 BLK,  1 TOV,  41.00 FPTS
+Devin Booker          ( PHX @ SAC ): 30 PTS,  5 REB,  8 AST,  2 STL,  0 BLK,  4 TOV,  49.25 FPTS
+LeBron James          (LAL vs. OKC): 25 PTS, 11 REB, 10 AST,  2 STL,  0 BLK,  7 TOV,  51.75 FPTS
+Anthony Davis         (LAL vs. OKC): 34 PTS,  7 REB,  4 AST,  4 STL,  2 BLK,  2 TOV,  61.75 FPTS
+Jrue Holiday          (NOP vs. POR): 22 PTS,  5 REB, 10 AST,  0 STL,  0 BLK,  5 TOV,  38.25 FPTS
+
+**2019-11-20**
+Giannis Antetokounmpo ( MIL @ ATL ): 33 PTS, 11 REB,  4 AST,  0 STL,  1 BLK,  4 TOV,  51.25 FPTS
+Trae Young            (ATL vs. MIL): 25 PTS,  2 REB,  8 AST,  3 STL,  0 BLK,  2 TOV,  45.00 FPTS
+Lou Williams          (LAC vs. BOS): 27 PTS,  2 REB,  2 AST,  2 STL,  0 BLK,  7 TOV,  30.50 FPTS
+Tobias Harris         (PHI vs. NYK): 14 PTS,  4 REB,  4 AST,  0 STL,  0 BLK,  0 TOV,  25.00 FPTS
+Clint Capela          ( HOU @ DEN ): 12 PTS, 21 REB,  0 AST,  1 STL,  0 BLK,  4 TOV,  36.75 FPTS
+James Harden          ( HOU @ DEN ): 27 PTS,  7 REB,  7 AST,  3 STL,  0 BLK,  8 TOV,  45.75 FPTS
+Karl-Anthony Towns    (MIN vs. UTA): 14 PTS, 12 REB,  1 AST,  0 STL,  1 BLK,  3 TOV,  30.00 FPTS
+Pascal Siakam         (TOR vs. ORL): 18 PTS, 11 REB,  4 AST,  1 STL,  1 BLK,  3 TOV,  39.75 FPTS
+Montrezl Harrell      (LAC vs. BOS):  6 PTS,  6 REB,  3 AST,  2 STL,  2 BLK,  2 TOV,  26.00 FPTS
+LaMarcus Aldridge     ( SAS @ WAS ): 12 PTS, 10 REB,  5 AST,  0 STL,  3 BLK,  1 TOV,  38.50 FPTS
+Devonte' Graham       ( CHA @ BKN ): 17 PTS,  3 REB,  6 AST,  0 STL,  0 BLK,  5 TOV,  24.75 FPTS
+Rudy Gobert           ( UTA @ MIN ): 12 PTS, 15 REB,  1 AST,  0 STL,  5 BLK,  3 TOV,  41.75 FPTS
+Luka Doncic           (DAL vs. GSW): 35 PTS, 10 REB, 11 AST,  4 STL,  0 BLK,  5 TOV,  69.00 FPTS
+Andre Drummond        ( DET @ CHI ):  6 PTS, 14 REB,  4 AST,  2 STL,  3 BLK,  3 TOV,  39.00 FPTS
+Bradley Beal          (WAS vs. SAS): 33 PTS,  4 REB,  4 AST,  0 STL,  0 BLK,  4 TOV,  40.00 FPTS
+Russell Westbrook     ( HOU @ DEN ): 25 PTS,  2 REB,  5 AST,  0 STL,  0 BLK,  1 TOV,  34.00 FPTS
+Bam Adebayo           (MIA vs. CLE): 13 PTS,  7 REB,  3 AST,  4 STL,  0 BLK,  3 TOV,  33.25 FPTS
+Nikola Jokic          (DEN vs. HOU): 27 PTS, 12 REB,  4 AST,  0 STL,  0 BLK,  7 TOV,  41.00 FPTS
+Kawhi Leonard         (LAC vs. BOS): 17 PTS,  6 REB,  3 AST,  3 STL,  2 BLK,  5 TOV,  36.50 FPTS
+Jayson Tatum          ( BOS @ LAC ): 30 PTS,  6 REB,  3 AST,  2 STL,  2 BLK,  3 TOV,  49.00 FPTS
+Donovan Mitchell      ( UTA @ MIN ): 26 PTS,  7 REB,  2 AST,  0 STL,  1 BLK,  2 TOV,  38.25 FPTS
+DeMar DeRozan         ( SAS @ WAS ): 31 PTS,  4 REB,  5 AST,  0 STL,  1 BLK,  1 TOV,  45.00 FPTS
+Zach LaVine           (CHI vs. DET):  5 PTS,  3 REB,  4 AST,  0 STL,  0 BLK,  2 TOV,  12.75 FPTS
+Fred VanVleet         (TOR vs. ORL): 24 PTS,  1 REB,  7 AST,  2 STL,  0 BLK,  3 TOV,  37.75 FPTS
+Joel Embiid           (PHI vs. NYK): 23 PTS, 12 REB,  5 AST,  0 STL,  1 BLK,  3 TOV,  45.00 FPTS
+
+**2019-11-21**
+Giannis Antetokounmpo (MIL vs. POR): 24 PTS, 19 REB, 15 AST,  3 STL,  1 BLK,  5 TOV,  75.25 FPTS
+CJ McCollum           ( POR @ MIL ): 37 PTS,  6 REB, 10 AST,  0 STL,  3 BLK,  3 TOV,  64.00 FPTS
+Devin Booker          (PHX vs. NOP): 19 PTS,  5 REB,  7 AST,  0 STL,  0 BLK,  6 TOV,  29.75 FPTS
+Jrue Holiday          ( NOP @ PHX ): 23 PTS,  4 REB,  9 AST,  3 STL,  1 BLK,  5 TOV,  46.50 FPTS
+
+**2019-11-22**
+Trae Young            ( ATL @ DET ):  9 PTS,  6 REB,  8 AST,  1 STL,  0 BLK,  5 TOV,  26.00 FPTS
+Lou Williams          (LAC vs. HOU): 26 PTS,  3 REB,  8 AST,  0 STL,  0 BLK,  4 TOV,  37.75 FPTS
+Tobias Harris         (PHI vs. SAS): 26 PTS,  6 REB,  4 AST,  1 STL,  2 BLK,  2 TOV,  45.00 FPTS
+Clint Capela          ( HOU @ LAC ): 17 PTS, 19 REB,  0 AST,  0 STL,  2 BLK,  3 TOV,  42.75 FPTS
+James Harden          ( HOU @ LAC ): 37 PTS,  8 REB, 12 AST,  2 STL,  0 BLK,  4 TOV,  66.00 FPTS
+Montrezl Harrell      (LAC vs. HOU): 18 PTS,  7 REB,  2 AST,  1 STL,  2 BLK,  5 TOV,  32.25 FPTS
+LaMarcus Aldridge     ( SAS @ PHI ): 17 PTS,  6 REB,  2 AST,  0 STL,  1 BLK,  1 TOV,  29.00 FPTS
+Devonte' Graham       ( CHA @ WAS ): 19 PTS,  6 REB,  7 AST,  2 STL,  1 BLK,  4 TOV,  40.50 FPTS
+Rudy Gobert           (UTA vs. GSW):  8 PTS, 19 REB,  1 AST,  1 STL,  7 BLK,  3 TOV,  50.25 FPTS
+Luka Doncic           (DAL vs. CLE): 30 PTS,  7 REB, 14 AST,  0 STL,  0 BLK,  2 TOV,  57.75 FPTS
+Andre Drummond        (DET vs. ATL): 23 PTS, 15 REB,  2 AST,  2 STL,  1 BLK,  4 TOV,  48.25 FPTS
+Bradley Beal          (WAS vs. CHA): 30 PTS,  5 REB, 12 AST,  0 STL,  0 BLK,  1 TOV,  53.25 FPTS
+Russell Westbrook     ( HOU @ LAC ): 22 PTS,  5 REB,  6 AST,  2 STL,  0 BLK,  6 TOV,  36.25 FPTS
+Bam Adebayo           ( MIA @ CHI ): 16 PTS, 14 REB,  6 AST,  3 STL,  1 BLK,  4 TOV,  48.50 FPTS
+Nikola Jokic          (DEN vs. BOS): 18 PTS, 16 REB, 10 AST,  3 STL,  1 BLK,  3 TOV,  60.00 FPTS
+Kawhi Leonard         (LAC vs. HOU): 24 PTS,  6 REB,  3 AST,  3 STL,  0 BLK,  2 TOV,  41.50 FPTS
+Jayson Tatum          ( BOS @ DEN ): 16 PTS,  2 REB,  3 AST,  0 STL,  1 BLK,  0 TOV,  25.50 FPTS
+LeBron James          ( LAL @ OKC ): 23 PTS,  6 REB, 14 AST,  1 STL,  1 BLK,  5 TOV,  51.50 FPTS
+Anthony Davis         ( LAL @ OKC ): 33 PTS, 11 REB,  7 AST,  1 STL,  0 BLK,  1 TOV,  58.75 FPTS
+Donovan Mitchell      (UTA vs. GSW): 30 PTS,  4 REB,  4 AST,  1 STL,  0 BLK,  0 TOV,  43.50 FPTS
+DeMar DeRozan         ( SAS @ PHI ): 29 PTS,  7 REB,  2 AST,  1 STL,  0 BLK,  2 TOV,  41.25 FPTS
+Zach LaVine           (CHI vs. MIA): 15 PTS,  3 REB,  2 AST,  2 STL,  0 BLK,  3 TOV,  23.75 FPTS
+Joel Embiid           (PHI vs. SAS): 21 PTS, 14 REB,  3 AST,  1 STL,  1 BLK,  4 TOV,  44.00 FPTS
+
+**2019-11-23**
+Giannis Antetokounmpo (MIL vs. DET): 28 PTS, 10 REB,  3 AST,  2 STL,  1 BLK,  2 TOV,  50.50 FPTS
+Damian Lillard        ( POR @ CLE ): 23 PTS,  8 REB,  8 AST,  0 STL,  1 BLK,  4 TOV,  43.50 FPTS
+Trae Young            (ATL vs. TOR): 30 PTS, 10 REB, 10 AST,  1 STL,  0 BLK,  3 TOV,  57.00 FPTS
+CJ McCollum           ( POR @ CLE ): 20 PTS,  6 REB,  5 AST,  1 STL,  3 BLK,  1 TOV,  44.00 FPTS
+Tobias Harris         (PHI vs. MIA): 19 PTS,  8 REB,  2 AST,  2 STL,  0 BLK,  0 TOV,  37.00 FPTS
+Domantas Sabonis      (IND vs. ORL): 25 PTS,  9 REB,  4 AST,  0 STL,  0 BLK,  5 TOV,  37.25 FPTS
+Karl-Anthony Towns    (MIN vs. PHX): 31 PTS, 17 REB,  4 AST,  0 STL,  1 BLK,  5 TOV,  55.75 FPTS
+Pascal Siakam         ( TOR @ ATL ): 34 PTS,  4 REB,  3 AST,  1 STL,  2 BLK,  2 TOV,  49.00 FPTS
+LaMarcus Aldridge     ( SAS @ NYK ): 23 PTS,  6 REB,  3 AST,  3 STL,  0 BLK,  3 TOV,  39.50 FPTS
+Devin Booker          ( PHX @ MIN ): 35 PTS, 12 REB,  9 AST,  0 STL,  1 BLK,  4 TOV,  62.00 FPTS
+Devonte' Graham       (CHA vs. CHI): 18 PTS,  2 REB, 10 AST,  0 STL,  0 BLK,  6 TOV,  29.50 FPTS
+Andre Drummond        ( DET @ MIL ): 12 PTS, 17 REB,  4 AST,  2 STL,  0 BLK,  5 TOV,  39.25 FPTS
+Bam Adebayo           ( MIA @ PHI ): 12 PTS,  5 REB,  0 AST,  1 STL,  0 BLK,  3 TOV,  17.75 FPTS
+LeBron James          ( LAL @ MEM ): 30 PTS,  6 REB,  4 AST,  2 STL,  0 BLK,  5 TOV,  43.50 FPTS
+Anthony Davis         ( LAL @ MEM ): 22 PTS,  4 REB,  3 AST,  3 STL,  5 BLK,  3 TOV,  48.50 FPTS
+Donovan Mitchell      (UTA vs. NOP): 37 PTS,  7 REB,  5 AST,  0 STL,  0 BLK,  3 TOV,  50.25 FPTS
+DeMar DeRozan         ( SAS @ NYK ): 21 PTS,  9 REB,  4 AST,  0 STL,  1 BLK,  4 TOV,  36.75 FPTS
+Zach LaVine           ( CHI @ CHA ): 49 PTS,  4 REB,  0 AST,  2 STL,  0 BLK,  4 TOV,  55.00 FPTS
+Jrue Holiday          ( NOP @ UTA ): 28 PTS,  5 REB,  4 AST,  4 STL,  2 BLK,  0 TOV,  55.25 FPTS
+Fred VanVleet         ( TOR @ ATL ): 25 PTS,  3 REB,  9 AST,  1 STL,  0 BLK,  5 TOV,  39.75 FPTS
+Joel Embiid           (PHI vs. MIA): 23 PTS, 11 REB,  2 AST,  2 STL,  2 BLK,  2 TOV,  47.75 FPTS
+
+**2019-11-24**
+Lou Williams          (LAC vs. NOP): 19 PTS,  3 REB,  4 AST,  0 STL,  0 BLK,  2 TOV,  26.75 FPTS
+Clint Capela          (HOU vs. DAL): 21 PTS, 23 REB,  3 AST,  1 STL,  0 BLK,  1 TOV,  55.75 FPTS
+James Harden          (HOU vs. DAL): 32 PTS,  9 REB, 11 AST,  1 STL,  0 BLK,  6 TOV,  56.25 FPTS
+Montrezl Harrell      (LAC vs. NOP): 34 PTS, 12 REB,  2 AST,  1 STL,  2 BLK,  0 TOV,  59.50 FPTS
+Devin Booker          ( PHX @ DEN ): 12 PTS,  1 REB,  5 AST,  0 STL,  0 BLK,  5 TOV,  15.75 FPTS
+Luka Doncic           ( DAL @ HOU ): 41 PTS,  6 REB, 10 AST,  2 STL,  1 BLK,  5 TOV,  66.00 FPTS
+Bradley Beal          (WAS vs. SAC): 20 PTS,  3 REB,  8 AST,  0 STL,  0 BLK,  2 TOV,  33.75 FPTS
+Russell Westbrook     (HOU vs. DAL): 27 PTS,  5 REB,  6 AST,  0 STL,  0 BLK,  4 TOV,  38.25 FPTS
+Nikola Jokic          (DEN vs. PHX):  8 PTS, 13 REB,  5 AST,  2 STL,  0 BLK,  1 TOV,  35.75 FPTS
+Kawhi Leonard         (LAC vs. NOP): 26 PTS,  4 REB,  6 AST,  0 STL,  0 BLK,  1 TOV,  39.00 FPTS
+Jrue Holiday          ( NOP @ LAC ): 18 PTS,  7 REB,  4 AST,  0 STL,  0 BLK,  2 TOV,  30.75 FPTS
+
+**2019-11-25**
+Giannis Antetokounmpo (MIL vs. UTA): 50 PTS, 14 REB,  6 AST,  2 STL,  0 BLK,  0 TOV,  81.50 FPTS
+Damian Lillard        ( POR @ CHI ): 13 PTS,  2 REB, 12 AST,  2 STL,  0 BLK,  1 TOV,  37.50 FPTS
+Trae Young            (ATL vs. MIN): 37 PTS,  6 REB,  9 AST,  0 STL,  0 BLK,  7 TOV,  51.00 FPTS
+CJ McCollum           ( POR @ CHI ): 21 PTS,  3 REB,  3 AST,  0 STL,  1 BLK,  1 TOV,  30.75 FPTS
+Tobias Harris         ( PHI @ TOR ): 18 PTS,  5 REB,  2 AST,  1 STL,  0 BLK,  2 TOV,  27.75 FPTS
+Domantas Sabonis      (IND vs. MEM): 13 PTS, 13 REB,  6 AST,  2 STL,  0 BLK,  1 TOV,  42.25 FPTS
+Karl-Anthony Towns    ( MIN @ ATL ): 28 PTS, 13 REB,  8 AST,  0 STL,  2 BLK,  5 TOV,  56.25 FPTS
+Pascal Siakam         (TOR vs. PHI): 25 PTS,  7 REB,  3 AST,  1 STL,  2 BLK,  1 TOV,  44.75 FPTS
+LaMarcus Aldridge     (SAS vs. LAL): 30 PTS,  5 REB,  0 AST,  1 STL,  1 BLK,  1 TOV,  40.25 FPTS
+Devonte' Graham       ( CHA @ MIA ): 16 PTS,  3 REB,  8 AST,  0 STL,  0 BLK,  6 TOV,  25.75 FPTS
+Andre Drummond        (DET vs. ORL):  7 PTS, 18 REB,  1 AST,  0 STL,  1 BLK,  3 TOV,  30.50 FPTS
+Bam Adebayo           (MIA vs. CHA): 21 PTS, 13 REB,  5 AST,  0 STL,  1 BLK,  3 TOV,  44.25 FPTS
+Jayson Tatum          (BOS vs. SAC): 20 PTS,  6 REB,  3 AST,  0 STL,  0 BLK,  3 TOV,  29.00 FPTS
+LeBron James          ( LAL @ SAS ): 33 PTS,  4 REB, 14 AST,  0 STL,  1 BLK,  3 TOV,  58.50 FPTS
+Anthony Davis         ( LAL @ SAS ): 19 PTS, 12 REB,  6 AST,  2 STL,  2 BLK,  0 TOV,  53.00 FPTS
+Donovan Mitchell      ( UTA @ MIL ): 20 PTS,  1 REB,  3 AST,  2 STL,  0 BLK,  5 TOV,  25.75 FPTS
+DeMar DeRozan         (SAS vs. LAL): 24 PTS,  4 REB,  5 AST,  0 STL,  1 BLK,  0 TOV,  39.00 FPTS
+Zach LaVine           (CHI vs. POR): 18 PTS,  1 REB,  5 AST,  2 STL,  1 BLK,  6 TOV,  28.25 FPTS
+Fred VanVleet         (TOR vs. PHI): 24 PTS,  3 REB,  8 AST,  2 STL,  0 BLK,  3 TOV,  41.75 FPTS
+Joel Embiid           ( PHI @ TOR ):  0 PTS, 13 REB,  2 AST,  0 STL,  0 BLK,  4 TOV,  15.25 FPTS
+
+**2019-11-26**
+Lou Williams          ( LAC @ DAL ): 21 PTS,  6 REB,  6 AST,  0 STL,  0 BLK,  5 TOV,  32.50 FPTS
+Montrezl Harrell      ( LAC @ DAL ): 12 PTS,  7 REB,  1 AST,  1 STL,  0 BLK,  1 TOV,  23.75 FPTS
+Luka Doncic           (DAL vs. LAC): 22 PTS,  8 REB,  6 AST,  3 STL,  0 BLK,  7 TOV,  41.50 FPTS
+Bradley Beal          ( WAS @ DEN ): 14 PTS,  4 REB,  6 AST,  1 STL,  0 BLK,  4 TOV,  26.50 FPTS
+Nikola Jokic          (DEN vs. WAS):  8 PTS, 20 REB,  5 AST,  0 STL,  0 BLK,  3 TOV,  37.50 FPTS
+Kawhi Leonard         ( LAC @ DAL ): 28 PTS,  8 REB,  4 AST,  1 STL,  0 BLK,  2 TOV,  44.50 FPTS
+
+**2019-11-27**
+Giannis Antetokounmpo (MIL vs. ATL): 30 PTS, 10 REB,  4 AST,  0 STL,  4 BLK,  4 TOV,  54.50 FPTS
+Damian Lillard        (POR vs. OKC): 27 PTS,  5 REB,  5 AST,  1 STL,  0 BLK,  1 TOV,  42.25 FPTS
+Trae Young            ( ATL @ MIL ): 29 PTS,  4 REB,  7 AST,  1 STL,  0 BLK,  3 TOV,  44.00 FPTS
+CJ McCollum           (POR vs. OKC): 22 PTS,  2 REB,  4 AST,  0 STL,  0 BLK,  2 TOV,  28.50 FPTS
+Lou Williams          ( LAC @ MEM ): 24 PTS,  1 REB, 13 AST,  2 STL,  0 BLK,  4 TOV,  45.75 FPTS
+Tobias Harris         (PHI vs. SAC): 14 PTS,  6 REB,  2 AST,  0 STL,  2 BLK,  2 TOV,  27.50 FPTS
+Domantas Sabonis      (IND vs. UTA): 23 PTS, 12 REB,  1 AST,  1 STL,  0 BLK,  2 TOV,  40.00 FPTS
+James Harden          (HOU vs. MIA): 34 PTS,  6 REB,  5 AST,  1 STL,  1 BLK,  2 TOV,  52.00 FPTS
+Karl-Anthony Towns    ( MIN @ SAS ): 23 PTS, 14 REB,  6 AST,  0 STL,  1 BLK,  5 TOV,  47.00 FPTS
+Pascal Siakam         (TOR vs. NYK): 31 PTS,  8 REB,  2 AST,  1 STL,  0 BLK,  3 TOV,  43.50 FPTS
+Montrezl Harrell      ( LAC @ MEM ): 24 PTS, 10 REB,  1 AST,  0 STL,  1 BLK,  1 TOV,  39.50 FPTS
+LaMarcus Aldridge     (SAS vs. MIN): 22 PTS,  6 REB,  1 AST,  0 STL,  1 BLK,  2 TOV,  31.50 FPTS
+Devin Booker          (PHX vs. WAS): 27 PTS,  2 REB,  8 AST,  1 STL,  1 BLK,  3 TOV,  43.50 FPTS
+Devonte' Graham       (CHA vs. DET): 16 PTS,  7 REB, 15 AST,  0 STL,  0 BLK,  1 TOV,  46.25 FPTS
+Rudy Gobert           ( UTA @ IND ): 14 PTS, 13 REB,  0 AST,  1 STL,  1 BLK,  2 TOV,  33.25 FPTS
+Andre Drummond        ( DET @ CHA ): 14 PTS, 21 REB,  7 AST,  1 STL,  0 BLK,  4 TOV,  49.25 FPTS
+Bradley Beal          ( WAS @ PHX ): 35 PTS,  2 REB,  6 AST,  1 STL,  1 BLK,  1 TOV,  50.50 FPTS
+Russell Westbrook     (HOU vs. MIA): 27 PTS,  9 REB,  7 AST,  2 STL,  0 BLK,  9 TOV,  44.75 FPTS
+Bam Adebayo           ( MIA @ HOU ): 17 PTS, 11 REB,  8 AST,  1 STL,  2 BLK,  5 TOV,  45.25 FPTS
+Jayson Tatum          (BOS vs. BKN): 16 PTS,  9 REB,  5 AST,  1 STL,  0 BLK,  3 TOV,  34.25 FPTS
+LeBron James          ( LAL @ NOP ): 29 PTS,  5 REB, 11 AST,  2 STL,  1 BLK,  5 TOV,  54.25 FPTS
+Anthony Davis         ( LAL @ NOP ): 41 PTS,  9 REB,  1 AST,  3 STL,  1 BLK,  2 TOV,  61.75 FPTS
+Donovan Mitchell      ( UTA @ IND ): 26 PTS,  0 REB,  1 AST,  1 STL,  1 BLK,  0 TOV,  32.50 FPTS
+DeMar DeRozan         (SAS vs. MIN): 20 PTS,  7 REB,  5 AST,  2 STL,  1 BLK,  1 TOV,  42.75 FPTS
+Zach LaVine           ( CHI @ GSW ): 36 PTS,  5 REB,  5 AST,  2 STL,  2 BLK,  2 TOV,  57.75 FPTS
+Jrue Holiday          (NOP vs. LAL): 29 PTS,  6 REB, 12 AST,  3 STL,  0 BLK,  7 TOV,  55.00 FPTS
+Fred VanVleet         (TOR vs. NYK): 15 PTS,  3 REB,  4 AST,  0 STL,  0 BLK,  3 TOV,  21.75 FPTS
+Joel Embiid           (PHI vs. SAC): 33 PTS, 16 REB,  1 AST,  0 STL,  2 BLK,  3 TOV,  56.50 FPTS
+
+**2019-11-28**
+
+**2019-11-29**
+Giannis Antetokounmpo ( MIL @ CLE ): 33 PTS, 12 REB,  2 AST,  2 STL,  2 BLK,  3 TOV,  58.00 FPTS
+Damian Lillard        (POR vs. CHI): 28 PTS,  2 REB,  6 AST,  0 STL,  0 BLK,  4 TOV,  35.50 FPTS
+Trae Young            ( ATL @ IND ): 49 PTS,  1 REB,  6 AST,  2 STL,  0 BLK,  9 TOV,  55.25 FPTS
+CJ McCollum           (POR vs. CHI): 20 PTS,  7 REB,  2 AST,  0 STL,  1 BLK,  3 TOV,  31.25 FPTS
+Lou Williams          ( LAC @ SAS ):  7 PTS,  2 REB,  7 AST,  1 STL,  0 BLK,  3 TOV,  19.50 FPTS
+Tobias Harris         ( PHI @ NYK ): 19 PTS,  6 REB,  1 AST,  1 STL,  2 BLK,  4 TOV,  31.50 FPTS
+Domantas Sabonis      (IND vs. ATL): 17 PTS, 11 REB,  2 AST,  2 STL,  0 BLK,  2 TOV,  36.75 FPTS
+Pascal Siakam         ( TOR @ ORL ): 10 PTS, 13 REB,  5 AST,  1 STL,  1 BLK,  3 TOV,  35.75 FPTS
+Montrezl Harrell      ( LAC @ SAS ): 12 PTS,  7 REB,  0 AST,  0 STL,  1 BLK,  0 TOV,  23.25 FPTS
+LaMarcus Aldridge     (SAS vs. LAC): 17 PTS,  8 REB,  7 AST,  1 STL,  4 BLK,  0 TOV,  50.00 FPTS
+Devin Booker          (PHX vs. DAL): 18 PTS,  5 REB,  8 AST,  1 STL,  0 BLK,  3 TOV,  35.75 FPTS
+Devonte' Graham       ( CHA @ DET ): 16 PTS,  1 REB,  8 AST,  0 STL,  2 BLK,  2 TOV,  32.25 FPTS
+Rudy Gobert           ( UTA @ MEM ): 13 PTS, 13 REB,  3 AST,  0 STL,  2 BLK,  0 TOV,  38.75 FPTS
+Luka Doncic           ( DAL @ PHX ): 42 PTS,  9 REB, 11 AST,  1 STL,  0 BLK,  2 TOV,  70.25 FPTS
+Andre Drummond        (DET vs. CHA): 15 PTS, 19 REB,  3 AST,  1 STL,  2 BLK,  4 TOV,  46.75 FPTS
+Bradley Beal          ( WAS @ LAL ): 18 PTS,  3 REB,  9 AST,  2 STL,  0 BLK,  3 TOV,  37.25 FPTS
+Bam Adebayo           (MIA vs. GSW):  2 PTS,  9 REB,  2 AST,  1 STL,  1 BLK,  1 TOV,  20.25 FPTS
+Kawhi Leonard         ( LAC @ SAS ): 19 PTS,  7 REB,  7 AST,  2 STL,  1 BLK,  3 TOV,  42.75 FPTS
+Jayson Tatum          ( BOS @ BKN ): 26 PTS,  9 REB,  0 AST,  4 STL,  0 BLK,  6 TOV,  41.25 FPTS
+LeBron James          (LAL vs. WAS): 23 PTS,  3 REB, 11 AST,  2 STL,  1 BLK,  6 TOV,  44.75 FPTS
+Anthony Davis         (LAL vs. WAS): 26 PTS, 13 REB,  2 AST,  0 STL,  3 BLK,  0 TOV,  52.75 FPTS
+Donovan Mitchell      ( UTA @ MEM ): 20 PTS,  5 REB,  3 AST,  3 STL,  0 BLK,  1 TOV,  37.25 FPTS
+DeMar DeRozan         (SAS vs. LAC): 15 PTS,  9 REB,  5 AST,  3 STL,  0 BLK,  4 TOV,  37.25 FPTS
+Zach LaVine           ( CHI @ POR ): 28 PTS,  6 REB,  5 AST,  1 STL,  0 BLK,  0 TOV,  45.50 FPTS
+Jrue Holiday          ( NOP @ OKC ): 14 PTS,  4 REB,  6 AST,  2 STL,  2 BLK,  3 TOV,  35.00 FPTS
+Fred VanVleet         ( TOR @ ORL ): 22 PTS,  5 REB,  4 AST,  7 STL,  0 BLK,  3 TOV,  48.75 FPTS
+Joel Embiid           ( PHI @ NYK ): 27 PTS, 17 REB,  2 AST,  0 STL,  3 BLK,  3 TOV,  55.75 FPTS
+
+**2019-11-30**
+Giannis Antetokounmpo (MIL vs. CHA): 26 PTS,  9 REB,  4 AST,  1 STL,  0 BLK,  1 TOV,  44.75 FPTS
+Trae Young            ( ATL @ HOU ): 37 PTS,  3 REB,  7 AST,  0 STL,  0 BLK,  3 TOV,  48.25 FPTS
+Tobias Harris         (PHI vs. IND): 22 PTS,  4 REB,  2 AST,  0 STL,  1 BLK,  2 TOV,  30.50 FPTS
+Domantas Sabonis      ( IND @ PHI ): 13 PTS, 10 REB,  5 AST,  0 STL,  0 BLK,  5 TOV,  28.00 FPTS
+James Harden          (HOU vs. ATL): 60 PTS,  3 REB,  8 AST,  3 STL,  1 BLK,  5 TOV,  80.75 FPTS
+Devonte' Graham       ( CHA @ MIL ): 24 PTS,  4 REB,  5 AST,  0 STL,  0 BLK,  1 TOV,  35.50 FPTS
+Russell Westbrook     (HOU vs. ATL): 15 PTS,  8 REB,  8 AST,  0 STL,  0 BLK,  4 TOV,  33.00 FPTS
+Nikola Jokic          ( DEN @ SAC ):  7 PTS, 10 REB,  6 AST,  0 STL,  1 BLK,  4 TOV,  27.00 FPTS
+Joel Embiid           (PHI vs. IND): 32 PTS, 11 REB,  4 AST,  3 STL,  1 BLK,  2 TOV,  59.75 FPTS
+
+**2019-12-01**
+Lou Williams          (LAC vs. WAS): 22 PTS,  1 REB,  8 AST,  0 STL,  0 BLK,  4 TOV,  31.25 FPTS
+Karl-Anthony Towns    (MIN vs. MEM): 21 PTS, 12 REB,  5 AST,  0 STL,  0 BLK,  2 TOV,  41.50 FPTS
+Pascal Siakam         (TOR vs. UTA): 35 PTS,  5 REB,  5 AST,  2 STL,  0 BLK,  4 TOV,  49.75 FPTS
+Montrezl Harrell      (LAC vs. WAS): 23 PTS, 15 REB,  1 AST,  1 STL,  1 BLK,  2 TOV,  46.25 FPTS
+Rudy Gobert           ( UTA @ TOR ): 12 PTS, 11 REB,  1 AST,  0 STL,  1 BLK,  3 TOV,  26.75 FPTS
+Luka Doncic           ( DAL @ LAL ): 27 PTS,  9 REB, 10 AST,  3 STL,  0 BLK,  7 TOV,  53.75 FPTS
+Andre Drummond        (DET vs. SAS):  9 PTS, 16 REB,  2 AST,  1 STL,  3 BLK,  4 TOV,  38.00 FPTS
+Bradley Beal          ( WAS @ LAC ): 23 PTS,  5 REB, 11 AST,  2 STL,  0 BLK,  5 TOV,  45.75 FPTS
+Bam Adebayo           ( MIA @ BKN ): 17 PTS, 16 REB,  1 AST,  1 STL,  1 BLK,  4 TOV,  39.50 FPTS
+Kawhi Leonard         (LAC vs. WAS): 34 PTS,  6 REB,  3 AST,  1 STL,  0 BLK,  1 TOV,  47.50 FPTS
+Jayson Tatum          ( BOS @ NYK ): 30 PTS,  6 REB,  7 AST,  2 STL,  2 BLK,  1 TOV,  57.00 FPTS
+LeBron James          (LAL vs. DAL): 25 PTS,  9 REB,  8 AST,  4 STL,  0 BLK,  6 TOV,  52.25 FPTS
+Anthony Davis         (LAL vs. DAL): 27 PTS, 10 REB,  2 AST,  1 STL,  2 BLK,  2 TOV,  48.00 FPTS
+Donovan Mitchell      ( UTA @ TOR ): 16 PTS,  1 REB,  4 AST,  1 STL,  0 BLK,  0 TOV,  25.75 FPTS
+DeMar DeRozan         ( SAS @ DET ): 20 PTS,  4 REB,  2 AST,  1 STL,  0 BLK,  0 TOV,  30.50 FPTS
+Jrue Holiday          (NOP vs. OKC): 26 PTS,  3 REB,  4 AST,  0 STL,  0 BLK,  0 TOV,  35.75 FPTS
+Fred VanVleet         (TOR vs. UTA): 21 PTS,  5 REB, 11 AST,  1 STL,  0 BLK,  0 TOV,  46.25 FPTS
+
+**2019-12-02**
+Giannis Antetokounmpo (MIL vs. NYK): 29 PTS, 15 REB,  3 AST,  0 STL,  0 BLK,  2 TOV,  50.25 FPTS
+Trae Young            (ATL vs. GSW): 24 PTS,  1 REB,  7 AST,  0 STL,  0 BLK,  7 TOV,  28.75 FPTS
+Tobias Harris         (PHI vs. UTA): 26 PTS,  9 REB,  3 AST,  1 STL,  0 BLK,  4 TOV,  40.25 FPTS
+Domantas Sabonis      ( IND @ MEM ): 18 PTS, 14 REB,  8 AST,  0 STL,  0 BLK,  3 TOV,  44.50 FPTS
+Devin Booker          ( PHX @ CHA ): 23 PTS,  4 REB,  4 AST,  1 STL,  1 BLK,  5 TOV,  34.00 FPTS
+Devonte' Graham       (CHA vs. PHX): 15 PTS,  4 REB, 13 AST,  0 STL,  0 BLK,  4 TOV,  35.50 FPTS
+Rudy Gobert           ( UTA @ PHI ): 27 PTS, 12 REB,  2 AST,  0 STL,  3 BLK,  1 TOV,  51.50 FPTS
+Donovan Mitchell      ( UTA @ PHI ): 18 PTS,  2 REB,  1 AST,  3 STL,  1 BLK,  4 TOV,  28.00 FPTS
+Zach LaVine           ( CHI @ SAC ): 28 PTS,  1 REB,  3 AST,  1 STL,  0 BLK,  2 TOV,  34.25 FPTS
+Joel Embiid           (PHI vs. UTA): 16 PTS, 11 REB,  4 AST,  1 STL,  1 BLK,  2 TOV,  38.75 FPTS
+
+**2019-12-03**
+Damian Lillard        ( POR @ LAC ): 16 PTS,  2 REB,  7 AST,  1 STL,  0 BLK,  2 TOV,  29.50 FPTS
+CJ McCollum           ( POR @ LAC ): 20 PTS,  3 REB,  3 AST,  0 STL,  1 BLK,  0 TOV,  30.75 FPTS
+Lou Williams          (LAC vs. POR):  9 PTS,  4 REB,  7 AST,  1 STL,  0 BLK,  3 TOV,  24.00 FPTS
+Clint Capela          ( HOU @ SAS ): 22 PTS, 21 REB,  2 AST,  1 STL,  2 BLK,  1 TOV,  57.75 FPTS
+James Harden          ( HOU @ SAS ): 50 PTS,  9 REB,  6 AST,  4 STL,  0 BLK,  4 TOV,  76.25 FPTS
+Pascal Siakam         (TOR vs. MIA): 15 PTS, 12 REB,  1 AST,  0 STL,  0 BLK,  2 TOV,  29.50 FPTS
+Montrezl Harrell      (LAC vs. POR): 26 PTS,  9 REB,  1 AST,  1 STL,  0 BLK,  0 TOV,  41.25 FPTS
+Luka Doncic           ( DAL @ NOP ): 33 PTS, 18 REB,  5 AST,  0 STL,  0 BLK,  4 TOV,  59.00 FPTS
+Andre Drummond        ( DET @ CLE ): 17 PTS, 14 REB,  4 AST,  5 STL,  4 BLK,  3 TOV,  60.00 FPTS
+Bradley Beal          (WAS vs. ORL): 42 PTS,  6 REB,  4 AST,  1 STL,  0 BLK,  3 TOV,  55.00 FPTS
+Russell Westbrook     ( HOU @ SAS ): 19 PTS, 10 REB, 10 AST,  2 STL,  1 BLK,  5 TOV,  49.00 FPTS
+Bam Adebayo           ( MIA @ TOR ): 18 PTS,  7 REB,  1 AST,  0 STL,  1 BLK,  2 TOV,  28.75 FPTS
+Nikola Jokic          (DEN vs. LAL): 13 PTS,  5 REB,  8 AST,  3 STL,  0 BLK,  5 TOV,  33.75 FPTS
+Kawhi Leonard         (LAC vs. POR): 11 PTS,  9 REB,  5 AST,  2 STL,  0 BLK,  1 TOV,  33.75 FPTS
+LeBron James          ( LAL @ DEN ): 25 PTS,  6 REB,  9 AST,  0 STL,  0 BLK,  4 TOV,  42.00 FPTS
+Anthony Davis         ( LAL @ DEN ): 25 PTS, 10 REB,  1 AST,  0 STL,  1 BLK,  1 TOV,  40.50 FPTS
+DeMar DeRozan         (SAS vs. HOU): 23 PTS,  5 REB,  9 AST,  0 STL,  0 BLK,  3 TOV,  39.75 FPTS
+Jrue Holiday          (NOP vs. DAL): 18 PTS,  4 REB,  4 AST,  0 STL,  2 BLK,  2 TOV,  32.00 FPTS
+Fred VanVleet         (TOR vs. MIA): 19 PTS,  1 REB,  6 AST,  3 STL,  0 BLK,  1 TOV,  35.75 FPTS
+
+**2019-12-04**
+Giannis Antetokounmpo ( MIL @ DET ): 35 PTS,  9 REB,  0 AST,  0 STL,  2 BLK,  2 TOV,  49.25 FPTS
+Damian Lillard        (POR vs. SAC): 24 PTS,  4 REB, 10 AST,  2 STL,  1 BLK,  4 TOV,  47.50 FPTS
+Trae Young            (ATL vs. BKN): 39 PTS,  3 REB, 10 AST,  1 STL,  0 BLK,  6 TOV,  54.25 FPTS
+CJ McCollum           (POR vs. SAC): 33 PTS,  4 REB,  4 AST,  1 STL,  4 BLK,  2 TOV,  54.50 FPTS
+Domantas Sabonis      ( IND @ OKC ): 17 PTS, 13 REB,  2 AST,  2 STL,  0 BLK,  4 TOV,  37.25 FPTS
+Karl-Anthony Towns    ( MIN @ DAL ): 26 PTS,  9 REB,  7 AST,  1 STL,  1 BLK,  2 TOV,  50.75 FPTS
+Devin Booker          ( PHX @ ORL ): 17 PTS,  3 REB,  5 AST,  0 STL,  0 BLK,  2 TOV,  26.25 FPTS
+Devonte' Graham       (CHA vs. GSW): 33 PTS,  7 REB,  9 AST,  2 STL,  0 BLK,  2 TOV,  58.25 FPTS
+Rudy Gobert           (UTA vs. LAL): 13 PTS, 10 REB,  2 AST,  1 STL,  0 BLK,  2 TOV,  29.00 FPTS
+Luka Doncic           (DAL vs. MIN): 22 PTS,  7 REB,  6 AST,  0 STL,  0 BLK,  5 TOV,  34.75 FPTS
+Andre Drummond        (DET vs. MIL): 23 PTS, 14 REB,  5 AST,  2 STL,  3 BLK,  3 TOV,  57.50 FPTS
+Bam Adebayo           ( MIA @ BOS ):  8 PTS,  7 REB,  3 AST,  0 STL,  0 BLK,  4 TOV,  17.25 FPTS
+Jayson Tatum          (BOS vs. MIA): 19 PTS,  5 REB,  3 AST,  1 STL,  3 BLK,  3 TOV,  36.75 FPTS
+LeBron James          ( LAL @ UTA ): 20 PTS,  4 REB, 12 AST,  1 STL,  0 BLK,  1 TOV,  44.50 FPTS
+Anthony Davis         ( LAL @ UTA ): 26 PTS,  6 REB,  1 AST,  1 STL,  3 BLK,  0 TOV,  45.00 FPTS
+Donovan Mitchell      (UTA vs. LAL): 29 PTS,  4 REB,  5 AST,  0 STL,  0 BLK,  2 TOV,  39.50 FPTS
+Zach LaVine           (CHI vs. MEM): 25 PTS,  6 REB,  3 AST,  1 STL,  1 BLK,  4 TOV,  38.00 FPTS
+
+**2019-12-05**
+Tobias Harris         ( PHI @ WAS ): 33 PTS,  7 REB,  3 AST,  0 STL,  1 BLK,  1 TOV,  47.75 FPTS
+Clint Capela          ( HOU @ TOR ):  6 PTS, 13 REB,  2 AST,  2 STL,  1 BLK,  5 TOV,  27.75 FPTS
+James Harden          ( HOU @ TOR ): 23 PTS,  7 REB,  3 AST,  5 STL,  1 BLK,  4 TOV,  47.25 FPTS
+Pascal Siakam         (TOR vs. HOU): 24 PTS,  9 REB,  2 AST,  2 STL,  1 BLK,  3 TOV,  42.75 FPTS
+Devin Booker          ( PHX @ NOP ): 44 PTS,  8 REB,  9 AST,  2 STL,  0 BLK,  5 TOV,  67.50 FPTS
+Bradley Beal          (WAS vs. PHI): 26 PTS, 10 REB,  4 AST,  0 STL,  0 BLK,  5 TOV,  39.50 FPTS
+Russell Westbrook     ( HOU @ TOR ): 19 PTS, 13 REB, 11 AST,  2 STL,  0 BLK,  8 TOV,  48.75 FPTS
+Nikola Jokic          ( DEN @ NYK ):  6 PTS, 10 REB,  8 AST,  0 STL,  1 BLK,  0 TOV,  33.00 FPTS
+Jrue Holiday          (NOP vs. PHX): 23 PTS,  7 REB,  6 AST,  5 STL,  0 BLK,  4 TOV,  49.25 FPTS
+Fred VanVleet         (TOR vs. HOU): 20 PTS,  6 REB,  5 AST,  3 STL,  1 BLK,  2 TOV,  43.00 FPTS
+Joel Embiid           ( PHI @ WAS ): 26 PTS, 21 REB,  1 AST,  0 STL,  1 BLK,  8 TOV,  48.25 FPTS
+
+**2019-12-06**
+Giannis Antetokounmpo (MIL vs. LAC): 27 PTS, 11 REB,  4 AST,  0 STL,  0 BLK,  4 TOV,  42.75 FPTS
+Damian Lillard        (POR vs. LAL): 29 PTS,  7 REB,  8 AST,  0 STL,  0 BLK,  4 TOV,  45.75 FPTS
+CJ McCollum           (POR vs. LAL): 15 PTS,  3 REB,  5 AST,  1 STL,  0 BLK,  1 TOV,  27.75 FPTS
+Lou Williams          ( LAC @ MIL ): 11 PTS,  1 REB,  3 AST,  0 STL,  0 BLK,  5 TOV,  11.75 FPTS
+Domantas Sabonis      ( IND @ DET ): 18 PTS, 13 REB,  5 AST,  1 STL,  1 BLK,  2 TOV,  44.75 FPTS
+Karl-Anthony Towns    ( MIN @ OKC ): 30 PTS,  5 REB,  8 AST,  2 STL,  2 BLK,  0 TOV,  58.25 FPTS
+Montrezl Harrell      ( LAC @ MIL ): 11 PTS,  7 REB,  2 AST,  0 STL,  1 BLK,  0 TOV,  25.25 FPTS
+LaMarcus Aldridge     (SAS vs. SAC): 19 PTS, 13 REB,  1 AST,  0 STL,  1 BLK,  1 TOV,  38.25 FPTS
+Devonte' Graham       (CHA vs. BKN): 29 PTS,  3 REB,  8 AST,  1 STL,  0 BLK,  4 TOV,  43.25 FPTS
+Andre Drummond        (DET vs. IND): 25 PTS, 22 REB,  1 AST,  3 STL,  2 BLK,  1 TOV,  65.50 FPTS
+Bradley Beal          ( WAS @ MIA ): 23 PTS,  4 REB,  8 AST,  1 STL,  1 BLK,  6 TOV,  39.00 FPTS
+Bam Adebayo           (MIA vs. WAS): 24 PTS, 14 REB,  4 AST,  0 STL,  2 BLK,  2 TOV,  50.50 FPTS
+Nikola Jokic          ( DEN @ BOS ): 30 PTS, 10 REB,  4 AST,  1 STL,  2 BLK,  1 TOV,  55.00 FPTS
+Kawhi Leonard         ( LAC @ MIL ): 17 PTS,  5 REB,  4 AST,  2 STL,  2 BLK,  5 TOV,  34.25 FPTS
+Jayson Tatum          (BOS vs. DEN): 26 PTS,  7 REB,  5 AST,  1 STL,  0 BLK,  1 TOV,  43.75 FPTS
+LeBron James          ( LAL @ POR ): 31 PTS,  7 REB,  8 AST,  0 STL,  1 BLK,  3 TOV,  51.25 FPTS
+Anthony Davis         ( LAL @ POR ): 39 PTS,  9 REB,  2 AST,  2 STL,  3 BLK,  3 TOV,  62.75 FPTS
+DeMar DeRozan         (SAS vs. SAC): 15 PTS, 10 REB,  7 AST,  2 STL,  0 BLK,  3 TOV,  40.00 FPTS
+Zach LaVine           (CHI vs. GSW): 22 PTS,  6 REB,  6 AST,  0 STL,  0 BLK,  5 TOV,  33.50 FPTS
+
+**2019-12-07**
+Tobias Harris         (PHI vs. CLE): 15 PTS,  4 REB,  3 AST,  0 STL,  0 BLK,  2 TOV,  22.50 FPTS
+Domantas Sabonis      ( IND @ NYK ): 19 PTS, 15 REB,  2 AST,  1 STL,  2 BLK,  5 TOV,  43.25 FPTS
+Clint Capela          (HOU vs. PHX): 12 PTS, 10 REB,  0 AST,  0 STL,  2 BLK,  3 TOV,  26.50 FPTS
+James Harden          (HOU vs. PHX): 34 PTS,  6 REB,  4 AST,  3 STL,  1 BLK,  0 TOV,  57.50 FPTS
+Devin Booker          ( PHX @ HOU ): 35 PTS,  4 REB,  5 AST,  1 STL,  0 BLK,  1 TOV,  49.00 FPTS
+Rudy Gobert           (UTA vs. MEM): 19 PTS, 11 REB,  5 AST,  0 STL,  0 BLK,  1 TOV,  39.25 FPTS
+Luka Doncic           (DAL vs. NOP): 26 PTS,  6 REB,  9 AST,  1 STL,  0 BLK,  2 TOV,  47.50 FPTS
+Russell Westbrook     (HOU vs. PHX): 24 PTS, 14 REB, 11 AST,  3 STL,  2 BLK,  4 TOV,  66.50 FPTS
+Donovan Mitchell      (UTA vs. MEM): 22 PTS,  4 REB,  3 AST,  0 STL,  0 BLK,  7 TOV,  24.50 FPTS
+Jrue Holiday          ( NOP @ DAL ): 14 PTS,  3 REB,  4 AST,  0 STL,  0 BLK,  2 TOV,  21.75 FPTS
+
+**2019-12-08**
+Damian Lillard        (POR vs. OKC): 26 PTS,  3 REB,  7 AST,  1 STL,  0 BLK,  3 TOV,  39.75 FPTS
+Trae Young            ( ATL @ CHA ): 30 PTS,  6 REB,  9 AST,  0 STL,  0 BLK,  2 TOV,  49.00 FPTS
+CJ McCollum           (POR vs. OKC): 20 PTS,  5 REB,  2 AST,  2 STL,  0 BLK,  0 TOV,  34.25 FPTS
+Lou Williams          ( LAC @ WAS ): 18 PTS,  1 REB,  6 AST,  0 STL,  0 BLK,  1 TOV,  27.25 FPTS
+Tobias Harris         (PHI vs. TOR): 26 PTS,  6 REB,  3 AST,  0 STL,  1 BLK,  2 TOV,  38.50 FPTS
+Karl-Anthony Towns    ( MIN @ LAL ): 19 PTS,  4 REB,  8 AST,  1 STL,  0 BLK,  2 TOV,  36.50 FPTS
+Pascal Siakam         ( TOR @ PHI ): 16 PTS,  7 REB,  2 AST,  1 STL,  0 BLK,  1 TOV,  29.25 FPTS
+Montrezl Harrell      ( LAC @ WAS ): 20 PTS,  5 REB,  0 AST,  0 STL,  1 BLK,  1 TOV,  27.75 FPTS
+Devonte' Graham       (CHA vs. ATL): 12 PTS,  6 REB,  8 AST,  2 STL,  0 BLK,  1 TOV,  35.50 FPTS
+Luka Doncic           (DAL vs. SAC): 27 PTS,  7 REB,  8 AST,  0 STL,  0 BLK,  6 TOV,  41.75 FPTS
+Bradley Beal          (WAS vs. LAC): 20 PTS,  2 REB,  5 AST,  0 STL,  0 BLK,  3 TOV,  27.00 FPTS
+Bam Adebayo           (MIA vs. CHI): 21 PTS, 13 REB,  6 AST,  3 STL,  1 BLK,  7 TOV,  49.25 FPTS
+Nikola Jokic          ( DEN @ BKN ): 24 PTS, 11 REB,  6 AST,  0 STL,  0 BLK,  3 TOV,  43.75 FPTS
+Kawhi Leonard         ( LAC @ WAS ): 34 PTS, 11 REB,  5 AST,  1 STL,  0 BLK,  4 TOV,  53.75 FPTS
+LeBron James          (LAL vs. MIN): 32 PTS,  4 REB, 13 AST,  1 STL,  0 BLK,  5 TOV,  54.00 FPTS
+Anthony Davis         (LAL vs. MIN): 50 PTS,  7 REB,  6 AST,  4 STL,  1 BLK,  1 TOV,  79.25 FPTS
+Zach LaVine           ( CHI @ MIA ): 18 PTS,  6 REB,  3 AST,  2 STL,  0 BLK,  7 TOV,  28.00 FPTS
+Fred VanVleet         ( TOR @ PHI ):  2 PTS,  1 REB,  2 AST,  1 STL,  0 BLK,  1 TOV,   7.75 FPTS
+Joel Embiid           (PHI vs. TOR): 10 PTS,  8 REB,  6 AST,  1 STL,  1 BLK,  7 TOV,  27.00 FPTS
+
+**2019-12-09**
+Giannis Antetokounmpo (MIL vs. ORL): 32 PTS, 15 REB,  8 AST,  1 STL,  1 BLK,  2 TOV,  65.75 FPTS
+Lou Williams          ( LAC @ IND ):  6 PTS,  1 REB,  6 AST,  0 STL,  1 BLK,  1 TOV,  17.75 FPTS
+Domantas Sabonis      (IND vs. LAC): 18 PTS, 22 REB,  4 AST,  1 STL,  1 BLK,  1 TOV,  55.50 FPTS
+Clint Capela          (HOU vs. SAC): 13 PTS, 17 REB,  0 AST,  0 STL,  0 BLK,  2 TOV,  32.25 FPTS
+James Harden          (HOU vs. SAC): 27 PTS,  4 REB, 10 AST,  2 STL,  1 BLK,  8 TOV,  46.50 FPTS
+Karl-Anthony Towns    ( MIN @ PHX ): 33 PTS, 15 REB,  2 AST,  0 STL,  2 BLK,  2 TOV,  57.75 FPTS
+Pascal Siakam         ( TOR @ CHI ): 22 PTS,  6 REB,  1 AST,  1 STL,  1 BLK,  2 TOV,  34.00 FPTS
+Montrezl Harrell      ( LAC @ IND ): 26 PTS,  8 REB,  1 AST,  0 STL,  1 BLK,  1 TOV,  39.00 FPTS
+Devin Booker          (PHX vs. MIN): 26 PTS,  4 REB,  7 AST,  0 STL,  1 BLK,  3 TOV,  41.00 FPTS
+Rudy Gobert           (UTA vs. OKC): 19 PTS, 17 REB,  1 AST,  0 STL,  0 BLK,  4 TOV,  37.75 FPTS
+Andre Drummond        ( DET @ NOP ): 13 PTS, 10 REB,  0 AST,  0 STL,  0 BLK,  1 TOV,  24.50 FPTS
+Russell Westbrook     (HOU vs. SAC): 34 PTS,  3 REB,  8 AST,  2 STL,  0 BLK,  6 TOV,  48.75 FPTS
+Jayson Tatum          (BOS vs. CLE): 19 PTS, 11 REB,  2 AST,  2 STL,  2 BLK,  4 TOV,  41.75 FPTS
+Donovan Mitchell      (UTA vs. OKC): 26 PTS,  6 REB,  3 AST,  0 STL,  0 BLK,  3 TOV,  35.00 FPTS
+Zach LaVine           (CHI vs. TOR): 20 PTS, 11 REB,  6 AST,  1 STL,  1 BLK,  2 TOV,  45.75 FPTS
+Jrue Holiday          (NOP vs. DET): 20 PTS,  6 REB,  5 AST,  2 STL,  0 BLK,  2 TOV,  38.00 FPTS
+
+**2019-12-10**
+Damian Lillard        (POR vs. NYK): 31 PTS,  2 REB,  6 AST,  0 STL,  0 BLK,  3 TOV,  39.50 FPTS
+Trae Young            ( ATL @ MIA ): 21 PTS,  4 REB,  9 AST,  0 STL,  0 BLK,  4 TOV,  35.50 FPTS
+CJ McCollum           (POR vs. NYK): 13 PTS,  4 REB,  3 AST,  0 STL,  1 BLK,  2 TOV,  23.00 FPTS
+Tobias Harris         (PHI vs. DEN): 20 PTS,  7 REB,  4 AST,  1 STL,  2 BLK,  1 TOV,  41.25 FPTS
+Devonte' Graham       (CHA vs. WAS): 29 PTS,  1 REB,  6 AST,  2 STL,  1 BLK,  1 TOV,  45.75 FPTS
+Bradley Beal          ( WAS @ CHA ): 16 PTS,  4 REB,  9 AST,  0 STL,  1 BLK,  4 TOV,  33.00 FPTS
+Bam Adebayo           (MIA vs. ATL): 30 PTS, 11 REB, 11 AST,  2 STL,  0 BLK,  4 TOV,  61.25 FPTS
+Nikola Jokic          ( DEN @ PHI ): 15 PTS,  7 REB, 11 AST,  0 STL,  1 BLK,  2 TOV,  40.75 FPTS
+Joel Embiid           (PHI vs. DEN): 22 PTS, 10 REB,  6 AST,  2 STL,  1 BLK,  4 TOV,  47.00 FPTS
+
+**2019-12-11**
