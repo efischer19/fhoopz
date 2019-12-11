@@ -10,3 +10,8 @@ python3 src/build_txt.py > data/reports/homepage.txt
 python3 src/fplayers_txt.py > data/reports/fplayers.txt
 python3 src/fteams_txt.py > data/reports/fteams.txt
 deactivate
+
+aws s3 sync data/ s3://fischerthings.com/fhoopz/ --acl public-read || exit 1
+for id in `cat ~/fischerthings.ids`; do
+  aws cloudfront create-invalidation --distribution-id $id --paths "/*";
+done

@@ -1,6 +1,4 @@
 
-**2019-10-21**
-
 **2019-10-22**
 Lou Williams          (LAC vs. LAL): 21 PTS,  5 REB,  7 AST,  1 STL,  0 BLK,  2 TOV,  38.25 FPTS
 Pascal Siakam         (TOR vs. NOP): 34 PTS, 18 REB,  5 AST,  0 STL,  1 BLK,  4 TOV,  62.50 FPTS
